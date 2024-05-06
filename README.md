@@ -19,5 +19,9 @@ pip install -r requirements.txt
 - Hyperparameter search can be done by pipelining the ```train.py``` script. See ```pipeline/hparam_lrwd.sh``` and its runners ```pipeline/hparam_runner[X]```.
 - After hyperparameter search and selection, use the ```train.py``` script for training final models (i.e., models trained on the training and validation splits). See ```pipeline/train_densenet.sh``` and ```pipeline/train_inception.sh``` and their associated runners (```pipeline/densenet_runner.sh``` and ```pipeline/inception_runner[X]```) for sample runs.
 
+## Model Evaluation
+- Generate model predictions using the ```test.py``` script. See ```pipeline/test_final_models.sh``` for sample runs.
+- Use ```eval.py``` and ```eval_stats_rev1.py``` and ```eval_plot.py``` for statistically evaluating these testing set predictions. An AUROC plot will be made by ```eval_plot.py``` and saved locally. A numpy zipfile with AUC and Kappa scores will be saved to the temp directory for further statistical evaluation by ```eval_stats_rev1.py```.
+
 ## Credit
 We would like to specifically thank Zach Murphy (a former colleague and collaborator of Kesavan's, see https://doi.org/10.1148/ryai.220012) and Nisanth Arun (co-first author of https://doi.org/10.1148/ryai.2021200267) for their gracious help.
