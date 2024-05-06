@@ -1,0 +1,15 @@
+saliency==0.1.3
+numpy
+scipy
+torch
+torchvision
+imageio
+statsmodels
+scikit-image
+scikit-learn
+jupyter
+notebook
+matplotlib
+opencv-python
+seaborn
+tqdm
