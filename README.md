@@ -23,7 +23,8 @@ pip install -r requirements.txt
 
 ## Creating Datasets
 - We use the publicly available MURA data (i.e., the Stanford team made public the training and validation splits from the MURA dataset) to create an in-house train/val/test split. We also curated radiologist annotations for a small subset of the test split (the "saliency test set").
-- Download the open-source MURA dataset to your local system. Update the storage root in ```cfg.json``` under the ```data_dir``` header. Under this location, at ```[data_dir]/mura/images``` save all the images using the following format: ```[train/valid]_[anatomical region, all caps]_p[patient number]_s[study number]_image[image number].png```. Copy the uploaded text files in ```datafiles/``` to ```[data_dir]/mura/```.
+- Download the open-source MURA dataset to your local system. Update the storage root in ```cfg.json``` under the ```data_dir``` header. Under this location, at ```[data_dir]/mura/images``` save all the images using the following format: ```[train/valid]_[anatomical region, all caps]_p[patient number]_s[study number]_image[image number].png```. Copy the uploaded text files in ```datafiles/``` to ```[data_dir]/mura/```. You can also see ```datafiles/``` for sample file naming. Update the ```saliency_test_images``` and ```cascade_test_images``` entries in the configuration JSON.
+- Table 1 in the manuscript can be replicated using ```figure_scripts/dataset_tables.py```. 
 
 ## Model Training
 - Hyperparameter search can be done by pipelining the ```train.py``` script. See ```pipeline/hparam_lrwd.sh``` and its runners ```pipeline/hparam_runner[X]```.
@@ -35,7 +36,7 @@ pip install -r requirements.txt
 
 ## Annotations
 - We curated our radiologist annotations using the VGG software (https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html) and saved them locally. Be sure to update the ```cfg.json``` with the save location (see ```annotations_dir``` entry).
-- Use ```get_gt.py``` to synthesize these annotations into numpy arrays.
+- Use ```get_gt_blinded.py``` to synthesize these annotations into numpy arrays. Notice that we have blinded our radiologist names to ``rad1/2/3```; please adjust the naming to fit your needs.
 
 ## Credit
 We would like to specifically thank Zach Murphy (a former colleague and collaborator of Kesavan's, see https://doi.org/10.1148/ryai.220012) and Nisanth Arun (co-first author of https://doi.org/10.1148/ryai.2021200267) for their gracious help.
