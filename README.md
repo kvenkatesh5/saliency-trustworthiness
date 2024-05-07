@@ -7,8 +7,8 @@ This document outlines how to use/adapt our code for preparing and running the t
 Please feel free to contact Kesavan for questions about this repository. Questions about overall study should be directed to ***REMOVED*** author Paul Yi.
 
 ### Contact Information
-*Kesavan Venkatesh*: kvenka10 at alumni dot jh dot edu
-*Paul Yi*: pyi at som dot umaryland dot edu
+*Kesavan Venkatesh* (first author): kvenka10 at alumni dot jh dot edu
+*Paul Yi* (***REMOVED*** author): pyi at som dot umaryland dot edu
 
 _This repository is being actively uploaded to GitHub as of May 6, 2024. Complete code will be available soon._
 
@@ -24,6 +24,7 @@ pip install -r requirements.txt
 ## Creating Datasets
 - We use the publicly available MURA data (i.e., the Stanford team made public the training and validation splits from the MURA dataset) to create an in-house train/val/test split. We also curated radiologist annotations for a small subset of the test split (the "saliency test set").
 - Download the open-source MURA dataset to your local system. Update the storage root in ```cfg.json``` under the ```data_dir``` header. Under this location, at ```[data_dir]/mura/images``` save all the images using the following format: ```[train/valid]_[anatomical region, all caps]_p[patient number]_s[study number]_image[image number].png```. Copy the uploaded text files in ```datafiles/``` to ```[data_dir]/mura/```. You can also see ```datafiles/``` for sample file naming. Update the ```saliency_test_images``` and ```cascade_test_images``` entries in the configuration JSON.
+- The ```train_100``` and ```val_100``` and ```test_100``` files list our in-house dataset splits. The ```train_all.txt``` file comprises of all the training and validation set images; this file is used for training final models (i.e., post hyperparameter search).
 - Table 1 in the manuscript can be replicated using ```figure_scripts/dataset_tables.py```. 
 
 ## Model Training
@@ -36,7 +37,12 @@ pip install -r requirements.txt
 
 ## Annotations
 - We curated our radiologist annotations using the VGG software (https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html) and saved them locally. Be sure to update the ```cfg.json``` with the save location (see ```annotations_dir``` entry).
-- Use ```get_gt_blinded.py``` to synthesize these annotations into numpy arrays. Notice that we have blinded our radiologist names to ``rad1/2/3```; please adjust the naming to fit your needs.
+- Use ```get_gt_blinded.py``` to synthesize these annotations into numpy arrays. Notice that we have blinded our radiologist names to ```rad1/2/3```; please adjust the naming to fit your needs.
+
+## Trustworthiness Experiments
+- Code to generate saliency heatmaps is in ```heatmaps.py```. See runners in ```pipeline/heatmap_runner[X].sh```.
+- ```figure_scripts/saliency_map_preprocessing.py``` visualizes the two-step preprocessing routine we applied to saliency maps. See accompanying figure in supplementals S.1.
+
 
 ## Credit
 We would like to specifically thank Zach Murphy (a former colleague and collaborator of Kesavan's, see https://doi.org/10.1148/ryai.220012) and Nisanth Arun (co-first author of https://doi.org/10.1148/ryai.2021200267) for their gracious help.
