@@ -8,6 +8,7 @@ Please feel free to contact Kesavan for questions about this repository. Questio
 
 ### Contact Information
 *Kesavan Venkatesh* (first author): kvenka10 at alumni dot jh dot edu
+
 *Paul Yi* (corresponding author): pyi at som dot umaryland dot edu
 
 _This repository is being actively uploaded to GitHub as of May 6, 2024. Complete code will be available soon._
@@ -44,6 +45,7 @@ pip install -r requirements.txt
 - ```figure_scripts/saliency_map_preprocessing.py``` visualizes the two-step preprocessing routine we applied to saliency maps. See accompanying figure in supplementals S.1.
 - Localization is done by ```localize_blinded.py```. Plots and statistics are done by ```localize_plots_rev1_blinded.py``` and ```localize_stats_rev1_blinded.py```. (These reproduce Figure 2 in manuscript.) Again, radiologist names are blinded.
 - Similarity (repeatability and reproducibility) is computed by ```similarity_blinded.py```. Plots and statistics are done by ```similarity_plots.py``` and ```similarity_stats_rev1.py```. (These reproduce Figure 3 in manuscript.) Again, radiologist names are blinded.
+- Sensitivity involved performing cascading randomization. CNNs are randomized by ```cascade.py``` and similarity scores are computed using ```cascade_scores.py```. The reported statistics are calculated using ```cascade_stats.py```. (In the manuscript, we do not report the complete AUROCs/classification scores for all the randomized CNNs. If you want to see this, use ```cascade_eval.py``` and ```cascade_eval_plot.py```.) Example cacading randomization runs in ```pipeline/cascade_runner.sh``` and testing evaluations of cascaded models in ```pipeline/test_cascade_models.sh``` (the latter just calls the ```test.sh``` script; after this, you need to run the aforementioned cascade evaluation files).
 
 ## Credit
 We would like to specifically thank Zach Murphy (a former colleague and collaborator of Kesavan's, see https://doi.org/10.1148/ryai.220012) and Nisanth Arun (co-first author of https://doi.org/10.1148/ryai.2021200267) for their gracious help.
