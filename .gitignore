@@ -12,6 +12,10 @@ src/similarity_stats.py
 README-old.md
 # Hide unused files
 src/subanalysis_labels_unused.py
+# venv
+t2env/
+# old venv
+tenv/
 # Other
 __pycache__/
 tmp/
