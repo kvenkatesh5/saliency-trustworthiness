@@ -1,0 +1,43 @@
+{
+    "data_dir": "/export/gaon1/data/kvenka10/explain-mura/",
+    "mura_links":[
+      "https://cs.stanford.edu/group/mlgroup/MURA-v1.1.zip"
+    ],
+    "labels_mura":[
+      "Normal",
+      "Abnormal"
+    ],
+    "model_dir": "/export/gaon2/data/kvenka10/explain-mura/results/model_training",
+    "final_models": {
+        "InceptionV3_1_100": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694580065_model.pt",
+        "InceptionV3_2_100": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694619548_model.pt",
+        "InceptionV3_3_100": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694599567_model.pt",
+        "DenseNet169_1_100": "DenseNet169_lr0.0001_bs64_optAdamW_wd0.0001_sch_drop_pp3_bp5_trtrain_all.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694581114_model.pt",
+
+        "InceptionV3_1_50": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_50.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694647156_model.pt",
+        "InceptionV3_2_50": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_50.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694642678_model.pt",
+        "InceptionV3_3_50": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_50.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694637567_model.pt",
+        "DenseNet169_1_50": "DenseNet169_lr0.0001_bs64_optAdamW_wd0.0001_sch_drop_pp3_bp5_trtrain_all_50.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694627319_model.pt",
+
+        "InceptionV3_1_10": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_10.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694654622_model.pt",
+        "InceptionV3_2_10": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_10.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694655988_model.pt",
+        "InceptionV3_3_10": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_10.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694653532_model.pt",
+        "DenseNet169_1_10": "DenseNet169_lr0.0001_bs64_optAdamW_wd0.0001_sch_drop_pp3_bp5_trtrain_all_10.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694635574_model.pt",
+
+        "InceptionV3_1_1": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_1.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694668155_model.pt",
+        "InceptionV3_2_1": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_1.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694667610_model.pt",
+        "InceptionV3_3_1": "InceptionV3_lr0.0001_bs32_optAdamW_wd0.0_sch_drop_pp3_bp5_trtrain_all_1.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694667914_model.pt",
+        "DenseNet169_1_1": "DenseNet169_lr0.0001_bs64_optAdamW_wd0.0001_sch_drop_pp3_bp5_trtrain_all_1.txt_vatest_100.txt_tfhvflip-rotate_do0.5_1694637594_model.pt"
+    },
+    "model_evaluation_dir": "/export/gaon2/data/kvenka10/explain-mura/results/model_evaluation",
+    "annotations_dir": "/export/gaon2/data/kvenka10/explain-mura/results/annotations_new_models",
+    "subgroup_labels_dir": "/export/gaon2/data/kvenka10/explain-mura/annotations",
+    "saliency_test_images": "/export/gaon1/data/kvenka10/explain-mura/mura/saliency_test_set.txt",
+    "heatmap_dir": "/export/gaon2/data/kvenka10/explain-mura/results/heatmaps_new_models",
+    "cascade_test_images": "/export/gaon1/data/kvenka10/explain-mura/mura/cascade_test_set.txt",
+    "cascade_model_dir": "/export/gaon2/data/kvenka10/explain-mura/results/cascade_models", 
+    "cascade_model_evaluation_dir": "/export/gaon2/data/kvenka10/explain-mura/results/cascade_model_evaluation", 
+    "trustworthiness_dir": "/export/gaon2/data/kvenka10/explain-mura/results/trustworthiness_new_models",
+    "tmp_dir": "./tmp",
+    "image_size": 320
+  }
