@@ -1,0 +1,911 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+valid_ELBOW_p11264_s1_image1.png,153633,"{""Abnormal Subclass Label"":""Supracondylar fracture""}",1,0,"{""name"":""rect"",""x"":202,""y"":158,""width"":39,""height"":49}",{}
+valid_ELBOW_p11264_s1_image2.png,151296,"{""Abnormal Subclass Label"":""Supracondylar fracture""}",1,0,"{""name"":""rect"",""x"":179,""y"":161,""width"":54,""height"":50}",{}
+valid_ELBOW_p11326_s1_image1.png,47585,"{""Abnormal Subclass Label"":""Hardware""}",3,0,"{""name"":""rect"",""x"":152,""y"":230,""width"":102,""height"":28}",{}
+valid_ELBOW_p11326_s1_image1.png,47585,"{""Abnormal Subclass Label"":""Hardware""}",3,1,"{""name"":""rect"",""x"":145,""y"":269,""width"":133,""height"":36}",{}
+valid_ELBOW_p11326_s1_image1.png,47585,"{""Abnormal Subclass Label"":""Hardware""}",3,2,"{""name"":""rect"",""x"":194,""y"":116,""width"":58,""height"":85}",{}
+valid_ELBOW_p11326_s1_image2.png,54104,"{""Abnormal Subclass Label"":""Hardware""}",3,0,"{""name"":""rect"",""x"":281,""y"":210,""width"":25,""height"":22}",{}
+valid_ELBOW_p11326_s1_image2.png,54104,"{""Abnormal Subclass Label"":""Hardware""}",3,1,"{""name"":""rect"",""x"":261,""y"":226,""width"":32,""height"":63}",{}
+valid_ELBOW_p11326_s1_image2.png,54104,"{""Abnormal Subclass Label"":""Hardware""}",3,2,"{""name"":""rect"",""x"":280,""y"":111,""width"":37,""height"":50}",{}
+valid_ELBOW_p11326_s1_image3.png,31867,"{""Abnormal Subclass Label"":""Hardware""}",3,0,"{""name"":""rect"",""x"":58,""y"":194,""width"":110,""height"":25}",{}
+valid_ELBOW_p11326_s1_image3.png,31867,"{""Abnormal Subclass Label"":""Hardware""}",3,1,"{""name"":""rect"",""x"":88,""y"":169,""width"":66,""height"":16}",{}
+valid_ELBOW_p11326_s1_image3.png,31867,"{""Abnormal Subclass Label"":""Hardware""}",3,2,"{""name"":""rect"",""x"":132,""y"":88,""width"":58,""height"":61}",{}
+valid_ELBOW_p11326_s1_image4.png,31897,"{""Abnormal Subclass Label"":""Hardware""}",3,0,"{""name"":""rect"",""x"":66,""y"":210,""width"":110,""height"":28}",{}
+valid_ELBOW_p11326_s1_image4.png,31897,"{""Abnormal Subclass Label"":""Hardware""}",3,1,"{""name"":""rect"",""x"":83,""y"":182,""width"":80,""height"":20}",{}
+valid_ELBOW_p11326_s1_image4.png,31897,"{""Abnormal Subclass Label"":""Hardware""}",3,2,"{""name"":""rect"",""x"":118,""y"":105,""width"":49,""height"":57}",{}
+valid_ELBOW_p11390_s1_image1.png,41218,"{""Abnormal Subclass Label"":""Hardware""}",1,0,"{""name"":""rect"",""x"":89,""y"":216,""width"":61,""height"":113}",{}
+valid_ELBOW_p11390_s1_image2.png,76223,"{""Abnormal Subclass Label"":""Deformity""}",1,0,"{""name"":""rect"",""x"":222,""y"":263,""width"":54,""height"":61}",{}
+valid_ELBOW_p11390_s1_image3.png,45414,"{""Abnormal Subclass Label"":""Hardware""}",1,0,"{""name"":""rect"",""x"":198,""y"":209,""width"":80,""height"":119}",{}
+valid_ELBOW_p11390_s1_image4.png,41573,"{""Abnormal Subclass Label"":""Hardware""}",1,0,"{""name"":""rect"",""x"":145,""y"":232,""width"":69,""height"":97}",{}
+valid_ELBOW_p11390_s1_image5.png,43595,"{""Abnormal Subclass Label"":""Hardware""}",1,0,"{""name"":""rect"",""x"":174,""y"":188,""width"":76,""height"":142}",{}
+valid_ELBOW_p11421_s1_image1.png,42286,"{""Abnormal Subclass Label"":""Hardware and stepoff deformity""}",2,0,"{""name"":""rect"",""x"":127,""y"":241,""width"":41,""height"":15}",{}
+valid_ELBOW_p11421_s1_image1.png,42286,"{""Abnormal Subclass Label"":""Hardware and stepoff deformity""}",2,1,"{""name"":""rect"",""x"":132,""y"":227,""width"":50,""height"":21}",{}
+valid_ELBOW_p11421_s1_image2.png,64046,"{""Abnormal Subclass Label"":""Hardware, healed fracture""}",2,0,"{""name"":""rect"",""x"":247,""y"":277,""width"":18,""height"":50}",{}
+valid_ELBOW_p11421_s1_image2.png,64046,"{""Abnormal Subclass Label"":""Hardware, healed fracture""}",2,1,"{""name"":""rect"",""x"":235,""y"":270,""width"":46,""height"":51}",{}
+valid_ELBOW_p11421_s1_image3.png,50220,"{""Abnormal Subclass Label"":""Healed fracture""}",2,0,"{""name"":""rect"",""x"":173,""y"":282,""width"":72,""height"":43}",{}
+valid_ELBOW_p11421_s1_image3.png,50220,"{""Abnormal Subclass Label"":""Healed fracture""}",2,1,"{""name"":""rect"",""x"":172,""y"":293,""width"":47,""height"":20}",{}
+valid_ELBOW_p11421_s1_image4.png,46941,"{""Abnormal Subclass Label"":""healed fracture""}",2,0,"{""name"":""rect"",""x"":77,""y"":256,""width"":63,""height"":23}",{}
+valid_ELBOW_p11421_s1_image4.png,46941,"{""Abnormal Subclass Label"":""healed fracture""}",2,1,"{""name"":""rect"",""x"":110,""y"":267,""width"":30,""height"":14}",{}
+valid_ELBOW_p11586_s1_image1.png,138765,"{""Abnormal Subclass Label"":""Radial head fracture""}",1,0,"{""name"":""rect"",""x"":185,""y"":238,""width"":48,""height"":19}",{}
+valid_ELBOW_p11586_s1_image2.png,133173,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":199,""y"":212,""width"":25,""height"":46}",{}
+valid_ELBOW_p11603_s1_image1.png,133984,"{""Abnormal Subclass Label"":""radial head fracture""}",4,0,"{""name"":""rect"",""x"":177,""y"":222,""width"":51,""height"":33}",{}
+valid_ELBOW_p11603_s1_image1.png,133984,"{""Abnormal Subclass Label"":""radial head fracture""}",4,1,"{""name"":""rect"",""x"":199,""y"":211,""width"":14,""height"":8}",{}
+valid_ELBOW_p11603_s1_image1.png,133984,"{""Abnormal Subclass Label"":""radial head fracture""}",4,2,"{""name"":""rect"",""x"":182,""y"":230,""width"":25,""height"":23}",{}
+valid_ELBOW_p11603_s1_image1.png,133984,"{""Abnormal Subclass Label"":""radial head fracture""}",4,3,"{""name"":""rect"",""x"":122,""y"":219,""width"":62,""height"":69}",{}
+valid_ELBOW_p11603_s1_image2.png,134028,"{""Abnormal Subclass Label"":""Radial head fracture""}",4,0,"{""name"":""rect"",""x"":254,""y"":155,""width"":23,""height"":41}",{}
+valid_ELBOW_p11603_s1_image2.png,134028,"{""Abnormal Subclass Label"":""Radial head fracture""}",4,1,"{""name"":""rect"",""x"":215,""y"":154,""width"":64,""height"":95}",{}
+valid_ELBOW_p11603_s1_image2.png,134028,"{""Abnormal Subclass Label"":""Radial head fracture""}",4,2,"{""name"":""rect"",""x"":296,""y"":177,""width"":9,""height"":9}",{}
+valid_ELBOW_p11603_s1_image2.png,134028,"{""Abnormal Subclass Label"":""Radial head fracture""}",4,3,"{""name"":""rect"",""x"":267,""y"":178,""width"":76,""height"":43}",{}
+valid_ELBOW_p11659_s1_image1.png,132425,"{""Abnormal Subclass Label"":""Fracture""}",6,0,"{""name"":""rect"",""x"":188,""y"":196,""width"":7,""height"":9}",{}
+valid_ELBOW_p11659_s1_image1.png,132425,"{""Abnormal Subclass Label"":""Fracture""}",6,1,"{""name"":""rect"",""x"":172,""y"":201,""width"":8,""height"":10}",{}
+valid_ELBOW_p11659_s1_image1.png,132425,"{""Abnormal Subclass Label"":""Fracture""}",6,2,"{""name"":""rect"",""x"":156,""y"":202,""width"":7,""height"":7}",{}
+valid_ELBOW_p11659_s1_image1.png,132425,"{""Abnormal Subclass Label"":""Fracture""}",6,3,"{""name"":""rect"",""x"":86,""y"":19,""width"":107,""height"":169}",{}
+valid_ELBOW_p11659_s1_image1.png,132425,"{""Abnormal Subclass Label"":""Fracture""}",6,4,"{""name"":""rect"",""x"":110,""y"":105,""width"":68,""height"":40}",{}
+valid_ELBOW_p11659_s1_image1.png,132425,"{""Abnormal Subclass Label"":""Fracture""}",6,5,"{""name"":""rect"",""x"":132,""y"":158,""width"":60,""height"":31}",{}
+valid_ELBOW_p11659_s1_image2.png,133903,"{""Abnormal Subclass Label"":""Hardware""}",3,0,"{""name"":""rect"",""x"":118,""y"":44,""width"":120,""height"":184}",{}
+valid_ELBOW_p11659_s1_image2.png,133903,"{""Abnormal Subclass Label"":""Hardware""}",3,1,"{""name"":""rect"",""x"":163,""y"":163,""width"":51,""height"":43}",{}
+valid_ELBOW_p11659_s1_image2.png,133903,"{""Abnormal Subclass Label"":""Hardware""}",3,2,"{""name"":""rect"",""x"":197,""y"":230,""width"":20,""height"":23}",{}
+valid_ELBOW_p11659_s1_image3.png,107001,{},3,0,"{""name"":""rect"",""x"":266,""y"":26,""width"":89,""height"":172}",{}
+valid_ELBOW_p11659_s1_image3.png,107001,{},3,1,"{""name"":""rect"",""x"":282,""y"":111,""width"":51,""height"":37}",{}
+valid_ELBOW_p11659_s1_image3.png,107001,{},3,2,"{""name"":""rect"",""x"":263,""y"":174,""width"":71,""height"":30}",{}
+valid_ELBOW_p11756_s1_image1.png,30058,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":123,""y"":215,""width"":53,""height"":105}",{}
+valid_ELBOW_p11756_s1_image1.png,30058,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":96,""y"":269,""width"":25,""height"":17}",{}
+valid_ELBOW_p11756_s1_image2.png,52097,"{""Abnormal Subclass Label"":""hardware""}",3,0,"{""name"":""rect"",""x"":97,""y"":373,""width"":122,""height"":50}",{}
+valid_ELBOW_p11756_s1_image2.png,52097,"{""Abnormal Subclass Label"":""hardware""}",3,1,"{""name"":""rect"",""x"":170,""y"":357,""width"":14,""height"":38}",{}
+valid_ELBOW_p11756_s1_image2.png,52097,"{""Abnormal Subclass Label"":""hardware""}",3,2,"{""name"":""rect"",""x"":112,""y"":349,""width"":53,""height"":39}",{}
+valid_ELBOW_p11756_s1_image3.png,29822,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":88,""y"":224,""width"":49,""height"":116}",{}
+valid_ELBOW_p11756_s1_image3.png,29822,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":101,""y"":292,""width"":36,""height"":15}",{}
+valid_ELBOW_p11756_s1_image4.png,29496,"{""Abnormal Subclass Label"":""Hardware""}",2,0,"{""name"":""rect"",""x"":114,""y"":288,""width"":54,""height"":105}",{}
+valid_ELBOW_p11756_s1_image4.png,29496,"{""Abnormal Subclass Label"":""Hardware""}",2,1,"{""name"":""rect"",""x"":87,""y"":340,""width"":36,""height"":14}",{}
+valid_ELBOW_p11780_s1_image1.png,131254,"{""Abnormal Subclass Label"":""Hardware""}",5,0,"{""name"":""rect"",""x"":187,""y"":115,""width"":51,""height"":46}",{}
+valid_ELBOW_p11780_s1_image1.png,131254,"{""Abnormal Subclass Label"":""Hardware""}",5,1,"{""name"":""rect"",""x"":224,""y"":140,""width"":34,""height"":127}",{}
+valid_ELBOW_p11780_s1_image1.png,131254,"{""Abnormal Subclass Label"":""Hardware""}",5,2,"{""name"":""rect"",""x"":229,""y"":6,""width"":29,""height"":102}",{}
+valid_ELBOW_p11780_s1_image1.png,131254,"{""Abnormal Subclass Label"":""Hardware""}",5,3,"{""name"":""rect"",""x"":174,""y"":96,""width"":9,""height"":9}",{}
+valid_ELBOW_p11780_s1_image1.png,131254,"{""Abnormal Subclass Label"":""Hardware""}",5,4,"{""name"":""rect"",""x"":221,""y"":115,""width"":46,""height"":45}",{}
+valid_ELBOW_p11780_s1_image2.png,134988,"{""Abnormal Subclass Label"":""Hardware""}",4,0,"{""name"":""rect"",""x"":233,""y"":184,""width"":34,""height"":168}",{}
+valid_ELBOW_p11780_s1_image2.png,134988,"{""Abnormal Subclass Label"":""Hardware""}",4,1,"{""name"":""rect"",""x"":243,""y"":368,""width"":26,""height"":70}",{}
+valid_ELBOW_p11780_s1_image2.png,134988,"{""Abnormal Subclass Label"":""Hardware""}",4,2,"{""name"":""rect"",""x"":204,""y"":297,""width"":51,""height"":66}",{}
+valid_ELBOW_p11780_s1_image2.png,134988,"{""Abnormal Subclass Label"":""Hardware""}",4,3,"{""name"":""rect"",""x"":274,""y"":307,""width"":19,""height"":21}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,0,"{""name"":""rect"",""x"":185,""y"":324,""width"":141,""height"":24}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,1,"{""name"":""rect"",""x"":284,""y"":246,""width"":44,""height"":54}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,2,"{""name"":""rect"",""x"":358,""y"":174,""width"":98,""height"":155}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,3,"{""name"":""rect"",""x"":208,""y"":314,""width"":10,""height"":9}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,4,"{""name"":""rect"",""x"":227,""y"":312,""width"":10,""height"":11}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,5,"{""name"":""rect"",""x"":258,""y"":311,""width"":14,""height"":12}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,6,"{""name"":""rect"",""x"":285,""y"":310,""width"":13,""height"":14}",{}
+valid_ELBOW_p11780_s1_image3.png,133526,{},8,7,"{""name"":""rect"",""x"":294,""y"":238,""width"":44,""height"":52}",{}
+valid_ELBOW_p11780_s1_image4.png,136810,"{""Abnormal Subclass Label"":""Hardware""}",6,0,"{""name"":""rect"",""x"":265,""y"":94,""width"":63,""height"":168}",{}
+valid_ELBOW_p11780_s1_image4.png,136810,"{""Abnormal Subclass Label"":""Hardware""}",6,1,"{""name"":""rect"",""x"":260,""y"":291,""width"":62,""height"":126}",{}
+valid_ELBOW_p11780_s1_image4.png,136810,"{""Abnormal Subclass Label"":""Hardware""}",6,2,"{""name"":""rect"",""x"":241,""y"":354,""width"":23,""height"":16}",{}
+valid_ELBOW_p11780_s1_image4.png,136810,"{""Abnormal Subclass Label"":""Hardware""}",6,3,"{""name"":""rect"",""x"":237,""y"":372,""width"":28,""height"":20}",{}
+valid_ELBOW_p11780_s1_image4.png,136810,"{""Abnormal Subclass Label"":""Hardware""}",6,4,"{""name"":""rect"",""x"":236,""y"":245,""width"":49,""height"":79}",{}
+valid_ELBOW_p11780_s1_image4.png,136810,"{""Abnormal Subclass Label"":""Hardware""}",6,5,"{""name"":""rect"",""x"":229,""y"":246,""width"":54,""height"":57}",{}
+valid_ELBOW_p11780_s1_image5.png,131637,"{""Abnormal Subclass Label"":""Hardware""}",4,0,"{""name"":""rect"",""x"":173,""y"":288,""width"":147,""height"":24}",{}
+valid_ELBOW_p11780_s1_image5.png,131637,"{""Abnormal Subclass Label"":""Hardware""}",4,1,"{""name"":""rect"",""x"":353,""y"":138,""width"":87,""height"":157}",{}
+valid_ELBOW_p11780_s1_image5.png,131637,"{""Abnormal Subclass Label"":""Hardware""}",4,2,"{""name"":""rect"",""x"":273,""y"":211,""width"":44,""height"":55}",{}
+valid_ELBOW_p11780_s1_image5.png,131637,"{""Abnormal Subclass Label"":""Hardware""}",4,3,"{""name"":""rect"",""x"":282,""y"":202,""width"":48,""height"":64}",{}
+valid_ELBOW_p11780_s1_image6.png,111664,"{""Abnormal Subclass Label"":""Hardware""}",5,0,"{""name"":""rect"",""x"":222,""y"":98,""width"":39,""height"":53}",{}
+valid_ELBOW_p11780_s1_image6.png,111664,"{""Abnormal Subclass Label"":""Hardware""}",5,1,"{""name"":""rect"",""x"":177,""y"":104,""width"":44,""height"":50}",{}
+valid_ELBOW_p11780_s1_image6.png,111664,"{""Abnormal Subclass Label"":""Hardware""}",5,2,"{""name"":""rect"",""x"":181,""y"":2,""width"":32,""height"":94}",{}
+valid_ELBOW_p11780_s1_image6.png,111664,"{""Abnormal Subclass Label"":""Hardware""}",5,3,"{""name"":""rect"",""x"":151,""y"":58,""width"":45,""height"":67}",{}
+valid_ELBOW_p11780_s1_image6.png,111664,"{""Abnormal Subclass Label"":""Hardware""}",5,4,"{""name"":""rect"",""x"":204,""y"":154,""width"":32,""height"":100}",{}
+valid_ELBOW_p11807_s1_image1.png,144614,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":176,""y"":272,""width"":43,""height"":32}",{}
+valid_ELBOW_p11807_s1_image2.png,146827,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":235,""y"":243,""width"":45,""height"":33}",{}
+valid_ELBOW_p11807_s1_image3.png,135573,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":135,""y"":262,""width"":34,""height"":46}",{}
+valid_ELBOW_p11809_s1_image1.png,34950,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":136,""y"":193,""width"":29,""height"":26}",{}
+valid_ELBOW_p11809_s1_image2.png,35997,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":149,""y"":185,""width"":30,""height"":26}",{}
+valid_ELBOW_p11809_s1_image3.png,45541,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":282,""y"":293,""width"":34,""height"":26}",{}
+valid_ELBOW_p11809_s1_image4.png,43163,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":201,""y"":398,""width"":48,""height"":44}",{}
+valid_ELBOW_p11810_s1_image1.png,66082,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":157,""y"":342,""width"":32,""height"":62}",{}
+valid_ELBOW_p11810_s1_image1.png,66082,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":143,""y"":317,""width"":30,""height"":23}",{}
+valid_ELBOW_p11811_s1_image1.png,101247,"{""Abnormal Subclass Label"":""hardware""}",3,0,"{""name"":""rect"",""x"":39,""y"":298,""width"":50,""height"":139}",{}
+valid_ELBOW_p11811_s1_image1.png,101247,"{""Abnormal Subclass Label"":""hardware""}",3,1,"{""name"":""rect"",""x"":22,""y"":316,""width"":80,""height"":191}",{}
+valid_ELBOW_p11811_s1_image1.png,101247,"{""Abnormal Subclass Label"":""hardware""}",3,2,"{""name"":""rect"",""x"":63,""y"":281,""width"":64,""height"":67}",{}
+valid_ELBOW_p11811_s1_image2.png,155787,{},1,0,"{""name"":""rect"",""x"":2,""y"":322,""width"":188,""height"":69}",{}
+valid_ELBOW_p11812_s1_image1.png,131739,"{""Abnormal Subclass Label"":""radius and ulnar fracture and dislocation""}",3,0,"{""name"":""rect"",""x"":173,""y"":396,""width"":54,""height"":36}",{}
+valid_ELBOW_p11812_s1_image1.png,131739,"{""Abnormal Subclass Label"":""radius and ulnar fracture and dislocation""}",3,1,"{""name"":""rect"",""x"":158,""y"":332,""width"":107,""height"":89}",{}
+valid_ELBOW_p11812_s1_image1.png,131739,"{""Abnormal Subclass Label"":""radius and ulnar fracture and dislocation""}",3,2,"{""name"":""rect"",""x"":119,""y"":421,""width"":50,""height"":32}",{}
+valid_ELBOW_p11812_s1_image2.png,142604,"{""Abnormal Subclass Label"":""radius and ulnar fracture and dislocation""}",3,0,"{""name"":""rect"",""x"":87,""y"":345,""width"":116,""height"":71}",{}
+valid_ELBOW_p11812_s1_image2.png,142604,"{""Abnormal Subclass Label"":""radius and ulnar fracture and dislocation""}",3,1,"{""name"":""rect"",""x"":151,""y"":308,""width"":38,""height"":59}",{}
+valid_ELBOW_p11812_s1_image2.png,142604,"{""Abnormal Subclass Label"":""radius and ulnar fracture and dislocation""}",3,2,"{""name"":""rect"",""x"":174,""y"":312,""width"":53,""height"":85}",{}
+valid_ELBOW_p11814_s1_image1.png,102132,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":225,""y"":199,""width"":60,""height"":44}",{}
+valid_ELBOW_p11814_s1_image2.png,153603,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":80,""y"":253,""width"":76,""height"":101}",{}
+valid_ELBOW_p11814_s1_image3.png,148717,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":153,""y"":238,""width"":44,""height"":41}",{}
+valid_ELBOW_p11817_s1_image1.png,31750,"{""Abnormal Subclass Label"":""coronoid process fracture""}",1,0,"{""name"":""rect"",""x"":128,""y"":278,""width"":24,""height"":21}",{}
+valid_ELBOW_p11817_s1_image2.png,63432,"{""Abnormal Subclass Label"":""coronoid process fracture""}",1,0,"{""name"":""rect"",""x"":222,""y"":282,""width"":25,""height"":36}",{}
+valid_ELBOW_p11817_s1_image3.png,31521,"{""Abnormal Subclass Label"":""coronoid process fracture""}",1,0,"{""name"":""rect"",""x"":103,""y"":341,""width"":44,""height"":36}",{}
+valid_ELBOW_p11817_s1_image4.png,30588,"{""Abnormal Subclass Label"":""coronoid process fracture""}",1,0,"{""name"":""rect"",""x"":124,""y"":312,""width"":32,""height"":21}",{}
+valid_ELBOW_p11817_s1_image5.png,21863,"{""Abnormal Subclass Label"":""coronoid process fracture""}",1,0,"{""name"":""rect"",""x"":80,""y"":253,""width"":26,""height"":21}",{}
+valid_ELBOW_p11818_s1_image1.png,36085,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,0,"{""name"":""rect"",""x"":98,""y"":197,""width"":45,""height"":16}",{}
+valid_ELBOW_p11818_s1_image1.png,36085,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,1,"{""name"":""rect"",""x"":120,""y"":187,""width"":34,""height"":31}",{}
+valid_ELBOW_p11818_s1_image2.png,63914,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,0,"{""name"":""rect"",""x"":176,""y"":312,""width"":15,""height"":28}",{}
+valid_ELBOW_p11818_s1_image2.png,63914,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,1,"{""name"":""rect"",""x"":155,""y"":302,""width"":42,""height"":53}",{}
+valid_ELBOW_p11818_s1_image3.png,39270,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,0,"{""name"":""rect"",""x"":80,""y"":249,""width"":32,""height"":17}",{}
+valid_ELBOW_p11818_s1_image3.png,39270,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,1,"{""name"":""rect"",""x"":105,""y"":238,""width"":27,""height"":27}",{}
+valid_ELBOW_p11818_s1_image4.png,38699,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,0,"{""name"":""rect"",""x"":97,""y"":419,""width"":43,""height"":25}",{}
+valid_ELBOW_p11818_s1_image4.png,38699,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,1,"{""name"":""rect"",""x"":108,""y"":408,""width"":43,""height"":37}",{}
+valid_ELBOW_p11818_s1_image5.png,41897,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,0,"{""name"":""rect"",""x"":126,""y"":246,""width"":48,""height"":19}",{}
+valid_ELBOW_p11818_s1_image5.png,41897,"{""Abnormal Subclass Label"":""hardware radial head fracture""}",2,1,"{""name"":""rect"",""x"":140,""y"":236,""width"":22,""height"":20}",{}
+valid_ELBOW_p11819_s1_image1.png,33965,{},1,0,"{""name"":""rect"",""x"":119,""y"":257,""width"":44,""height"":132}",{}
+valid_ELBOW_p11819_s1_image2.png,55243,"{""Abnormal Subclass Label"":""olecranon fracture""}",1,0,"{""name"":""rect"",""x"":128,""y"":363,""width"":170,""height"":91}",{}
+valid_ELBOW_p11820_s1_image1.png,117510,{},3,0,"{""name"":""rect"",""x"":254,""y"":278,""width"":21,""height"":17}",{}
+valid_ELBOW_p11820_s1_image1.png,117510,{},3,1,"{""name"":""rect"",""x"":165,""y"":322,""width"":83,""height"":37}",{}
+valid_ELBOW_p11820_s1_image1.png,117510,{},3,2,"{""name"":""rect"",""x"":181,""y"":291,""width"":28,""height"":60}",{}
+valid_ELBOW_p11820_s1_image2.png,129365,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,0,"{""name"":""rect"",""x"":181,""y"":258,""width"":45,""height"":25}",{}
+valid_ELBOW_p11820_s1_image2.png,129365,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,1,"{""name"":""rect"",""x"":179,""y"":254,""width"":48,""height"":31}",{}
+valid_ELBOW_p11820_s1_image2.png,129365,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,2,"{""name"":""rect"",""x"":191,""y"":232,""width"":21,""height"":13}",{}
+valid_ELBOW_p11820_s1_image2.png,129365,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,3,"{""name"":""rect"",""x"":240,""y"":198,""width"":27,""height"":17}",{}
+valid_ELBOW_p11820_s1_image3.png,127660,{},4,0,"{""name"":""rect"",""x"":193,""y"":215,""width"":19,""height"":36}",{}
+valid_ELBOW_p11820_s1_image3.png,127660,{},4,1,"{""name"":""rect"",""x"":162,""y"":218,""width"":13,""height"":15}",{}
+valid_ELBOW_p11820_s1_image3.png,127660,{},4,2,"{""name"":""rect"",""x"":138,""y"":200,""width"":13,""height"":14}",{}
+valid_ELBOW_p11820_s1_image3.png,127660,{},4,3,"{""name"":""rect"",""x"":183,""y"":209,""width"":36,""height"":43}",{}
+valid_ELBOW_p11820_s1_image4.png,125000,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",5,0,"{""name"":""rect"",""x"":171,""y"":218,""width"":34,""height"":16}",{}
+valid_ELBOW_p11820_s1_image4.png,125000,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",5,1,"{""name"":""rect"",""x"":174,""y"":186,""width"":20,""height"":12}",{}
+valid_ELBOW_p11820_s1_image4.png,125000,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",5,2,"{""name"":""rect"",""x"":244,""y"":158,""width"":21,""height"":14}",{}
+valid_ELBOW_p11820_s1_image4.png,125000,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",5,3,"{""name"":""rect"",""x"":157,""y"":212,""width"":9,""height"":15}",{}
+valid_ELBOW_p11820_s1_image4.png,125000,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",5,4,"{""name"":""rect"",""x"":168,""y"":215,""width"":37,""height"":25}",{}
+valid_ELBOW_p11820_s1_image5.png,121828,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,0,"{""name"":""rect"",""x"":191,""y"":210,""width"":39,""height"":15}",{}
+valid_ELBOW_p11820_s1_image5.png,121828,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,1,"{""name"":""rect"",""x"":205,""y"":176,""width"":17,""height"":14}",{}
+valid_ELBOW_p11820_s1_image5.png,121828,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,2,"{""name"":""rect"",""x"":247,""y"":149,""width"":10,""height"":12}",{}
+valid_ELBOW_p11820_s1_image5.png,121828,"{""Abnormal Subclass Label"":""hardware radial ead fracture""}",4,3,"{""name"":""rect"",""x"":186,""y"":193,""width"":59,""height"":33}",{}
+valid_ELBOW_p11821_s1_image1.png,44394,{},0,0,{},{}
+valid_ELBOW_p11821_s1_image2.png,42928,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":140,""y"":316,""width"":26,""height"":23}",{}
+valid_ELBOW_p11821_s1_image3.png,40395,{},1,0,"{""name"":""rect"",""x"":218,""y"":199,""width"":46,""height"":73}",{}
+valid_ELBOW_p11822_s1_image1.png,189818,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":96,""y"":343,""width"":63,""height"":59}",{}
+valid_ELBOW_p11822_s1_image2.png,183460,{},1,0,"{""name"":""rect"",""x"":178,""y"":134,""width"":61,""height"":42}",{}
+valid_ELBOW_p11822_s1_image3.png,158940,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":130,""y"":127,""width"":28,""height"":57}",{}
+valid_ELBOW_p11824_s1_image1.png,71092,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":283,""y"":232,""width"":44,""height"":71}",{}
+valid_ELBOW_p11824_s1_image2.png,32184,"{""Abnormal Subclass Label"":""radial head fracture""}",1,0,"{""name"":""rect"",""x"":136,""y"":265,""width"":55,""height"":31}",{}
+valid_ELBOW_p11827_s1_image1.png,47398,"{""Abnormal Subclass Label"":""hardware""}",3,0,"{""name"":""rect"",""x"":181,""y"":111,""width"":102,""height"":213}",{}
+valid_ELBOW_p11827_s1_image1.png,47398,"{""Abnormal Subclass Label"":""hardware""}",3,1,"{""name"":""rect"",""x"":299,""y"":305,""width"":108,""height"":42}",{}
+valid_ELBOW_p11827_s1_image1.png,47398,"{""Abnormal Subclass Label"":""hardware""}",3,2,"{""name"":""rect"",""x"":227,""y"":213,""width"":59,""height"":74}",{}
+valid_ELBOW_p11827_s1_image2.png,60121,"{""Abnormal Subclass Label"":""hardware""}",3,0,"{""name"":""rect"",""x"":212,""y"":173,""width"":132,""height"":107}",{}
+valid_ELBOW_p11827_s1_image2.png,60121,"{""Abnormal Subclass Label"":""hardware""}",3,1,"{""name"":""rect"",""x"":217,""y"":323,""width"":61,""height"":98}",{}
+valid_ELBOW_p11827_s1_image2.png,60121,"{""Abnormal Subclass Label"":""hardware""}",3,2,"{""name"":""rect"",""x"":247,""y"":43,""width"":100,""height"":254}",{}
+valid_ELBOW_p11827_s1_image3.png,39445,"{""Abnormal Subclass Label"":""distal humerus fracture""}",3,0,"{""name"":""rect"",""x"":85,""y"":123,""width"":101,""height"":56}",{}
+valid_ELBOW_p11827_s1_image3.png,39445,"{""Abnormal Subclass Label"":""distal humerus fracture""}",3,1,"{""name"":""rect"",""x"":83,""y"":24,""width"":109,""height"":182}",{}
+valid_ELBOW_p11827_s1_image3.png,39445,"{""Abnormal Subclass Label"":""distal humerus fracture""}",3,2,"{""name"":""rect"",""x"":122,""y"":249,""width"":30,""height"":100}",{}
+valid_ELBOW_p11827_s1_image4.png,61531,"{""Abnormal Subclass Label"":""distal humerus fracture""}",4,0,"{""name"":""rect"",""x"":347,""y"":226,""width"":112,""height"":48}",{}
+valid_ELBOW_p11827_s1_image4.png,61531,"{""Abnormal Subclass Label"":""distal humerus fracture""}",4,1,"{""name"":""rect"",""x"":202,""y"":63,""width"":108,""height"":220}",{}
+valid_ELBOW_p11827_s1_image4.png,61531,"{""Abnormal Subclass Label"":""distal humerus fracture""}",4,2,"{""name"":""rect"",""x"":239,""y"":200,""width"":80,""height"":55}",{}
+valid_ELBOW_p11827_s1_image4.png,61531,"{""Abnormal Subclass Label"":""distal humerus fracture""}",4,3,"{""name"":""rect"",""x"":233,""y"":160,""width"":53,""height"":26}",{}
+valid_ELBOW_p11827_s1_image5.png,37321,"{""Abnormal Subclass Label"":""distal humerus fracture""}",3,0,"{""name"":""rect"",""x"":88,""y"":89,""width"":109,""height"":195}",{}
+valid_ELBOW_p11827_s1_image5.png,37321,"{""Abnormal Subclass Label"":""distal humerus fracture""}",3,1,"{""name"":""rect"",""x"":134,""y"":316,""width"":59,""height"":98}",{}
+valid_ELBOW_p11827_s1_image5.png,37321,"{""Abnormal Subclass Label"":""distal humerus fracture""}",3,2,"{""name"":""rect"",""x"":102,""y"":191,""width"":110,""height"":75}",{}
+valid_ELBOW_p11828_s1_image1.png,143245,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":179,""y"":277,""width"":33,""height"":28}",{}
+valid_ELBOW_p11828_s1_image1.png,143245,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":183,""y"":281,""width"":38,""height"":20}",{}
+valid_ELBOW_p11828_s1_image2.png,140858,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":168,""y"":290,""width"":59,""height"":34}",{}
+valid_ELBOW_p11828_s1_image2.png,140858,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":173,""y"":293,""width"":43,""height"":26}",{}
+valid_ELBOW_p11828_s1_image3.png,133133,"{""Abnormal Subclass Label"":""radial head fracture""}",4,0,"{""name"":""rect"",""x"":238,""y"":219,""width"":34,""height"":46}",{}
+valid_ELBOW_p11828_s1_image3.png,133133,"{""Abnormal Subclass Label"":""radial head fracture""}",4,1,"{""name"":""rect"",""x"":249,""y"":254,""width"":18,""height"":17}",{}
+valid_ELBOW_p11828_s1_image3.png,133133,"{""Abnormal Subclass Label"":""radial head fracture""}",4,2,"{""name"":""rect"",""x"":250,""y"":236,""width"":16,""height"":10}",{}
+valid_ELBOW_p11828_s1_image3.png,133133,"{""Abnormal Subclass Label"":""radial head fracture""}",4,3,"{""name"":""rect"",""x"":245,""y"":233,""width"":13,""height"":46}",{}
+valid_ELBOW_p11831_s1_image1.png,99176,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":240,""y"":282,""width"":55,""height"":45}",{}
+valid_ELBOW_p11831_s1_image1.png,99176,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":224,""y"":272,""width"":82,""height"":74}",{}
+valid_ELBOW_p11831_s1_image2.png,102864,{},0,0,{},{}
+valid_ELBOW_p11831_s1_image3.png,100423,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":268,""y"":342,""width"":21,""height"":46}",{}
+valid_ELBOW_p11831_s1_image3.png,100423,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":234,""y"":316,""width"":102,""height"":87}",{}
+valid_ELBOW_p11831_s1_image4.png,99951,{},2,0,"{""name"":""rect"",""x"":208,""y"":295,""width"":117,""height"":74}",{}
+valid_ELBOW_p11831_s1_image4.png,99951,{},2,1,"{""name"":""rect"",""x"":255,""y"":321,""width"":55,""height"":35}",{}
+valid_ELBOW_p11831_s1_image5.png,107991,"{""Abnormal Subclass Label"":""scaphoid fracture""}",1,0,"{""name"":""rect"",""x"":350,""y"":240,""width"":21,""height"":40}",{}
+valid_ELBOW_p11831_s1_image6.png,92108,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":153,""y"":284,""width"":89,""height"":58}",{}
+valid_ELBOW_p11831_s1_image6.png,92108,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":137,""y"":251,""width"":103,""height"":90}",{}
+valid_ELBOW_p11831_s1_image7.png,97687,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":242,""y"":289,""width"":38,""height"":52}",{}
+valid_ELBOW_p11831_s1_image7.png,97687,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":208,""y"":261,""width"":86,""height"":96}",{}
+valid_ELBOW_p11839_s1_image1.png,41360,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":115,""y"":239,""width"":49,""height"":18}",{}
+valid_ELBOW_p11839_s1_image1.png,41360,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":105,""y"":229,""width"":64,""height"":35}",{}
+valid_ELBOW_p11839_s1_image2.png,65922,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":250,""y"":306,""width"":21,""height"":31}",{}
+valid_ELBOW_p11839_s1_image2.png,65922,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":239,""y"":279,""width"":45,""height"":68}",{}
+valid_ELBOW_p11839_s1_image3.png,37694,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":106,""y"":250,""width"":44,""height"":18}",{}
+valid_ELBOW_p11839_s1_image3.png,37694,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":107,""y"":240,""width"":50,""height"":30}",{}
+valid_ELBOW_p11839_s1_image4.png,46518,"{""Abnormal Subclass Label"":""radial head fracture""}",3,0,"{""name"":""rect"",""x"":160,""y"":272,""width"":44,""height"":16}",{}
+valid_ELBOW_p11839_s1_image4.png,46518,"{""Abnormal Subclass Label"":""radial head fracture""}",3,1,"{""name"":""rect"",""x"":206,""y"":299,""width"":2,""height"":2}",{}
+valid_ELBOW_p11839_s1_image4.png,46518,"{""Abnormal Subclass Label"":""radial head fracture""}",3,2,"{""name"":""rect"",""x"":162,""y"":261,""width"":51,""height"":34}",{}
+valid_ELBOW_p11839_s1_image5.png,37080,"{""Abnormal Subclass Label"":""radial head fracture""}",2,0,"{""name"":""rect"",""x"":106,""y"":293,""width"":41,""height"":21}",{}
+valid_ELBOW_p11839_s1_image5.png,37080,"{""Abnormal Subclass Label"":""radial head fracture""}",2,1,"{""name"":""rect"",""x"":104,""y"":289,""width"":51,""height"":29}",{}
+valid_ELBOW_p11840_s1_image1.png,26679,"{""Abnormal Subclass Label"":""olecranon fracture""}",1,0,"{""name"":""rect"",""x"":58,""y"":116,""width"":60,""height"":160}",{}
+valid_ELBOW_p11840_s1_image2.png,45033,"{""Abnormal Subclass Label"":""olecranon fracture""}",1,0,"{""name"":""rect"",""x"":159,""y"":255,""width"":283,""height"":79}",{}
+valid_ELBOW_p11840_s1_image3.png,26564,"{""Abnormal Subclass Label"":""olecranon fracture""}",1,0,"{""name"":""rect"",""x"":89,""y"":206,""width"":45,""height"":152}",{}
+valid_ELBOW_p11840_s1_image4.png,27685,"{""Abnormal Subclass Label"":""olecranon fracture""}",1,0,"{""name"":""rect"",""x"":140,""y"":133,""width"":45,""height"":163}",{}
+valid_ELBOW_p11840_s1_image5.png,28514,"{""Abnormal Subclass Label"":""olecranon fracture""}",1,0,"{""name"":""rect"",""x"":30,""y"":90,""width"":62,""height"":166}",{}
+valid_FINGER_p11200_s1_image1.png,37638,"{""Abnormal Subclass Label"":""distal tuft fracture""}",1,0,"{""name"":""rect"",""x"":180,""y"":65,""width"":23,""height"":24}",{}
+valid_FINGER_p11200_s1_image2.png,45327,"{""Abnormal Subclass Label"":""distal tuft fracture""}",1,0,"{""name"":""rect"",""x"":197,""y"":57,""width"":23,""height"":22}",{}
+valid_FINGER_p11200_s1_image3.png,44483,"{""Abnormal Subclass Label"":""distal tuft fracture""}",1,0,"{""name"":""rect"",""x"":218,""y"":90,""width"":24,""height"":25}",{}
+valid_FINGER_p11213_s1_image1.png,21780,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,0,"{""name"":""rect"",""x"":34,""y"":125,""width"":34,""height"":26}",{}
+valid_FINGER_p11213_s1_image1.png,21780,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,1,"{""name"":""rect"",""x"":43,""y"":108,""width"":17,""height"":72}",{}
+valid_FINGER_p11213_s1_image2.png,21698,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,0,"{""name"":""rect"",""x"":39,""y"":127,""width"":33,""height"":19}",{}
+valid_FINGER_p11213_s1_image2.png,21698,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,1,"{""name"":""rect"",""x"":43,""y"":105,""width"":23,""height"":72}",{}
+valid_FINGER_p11213_s1_image3.png,22579,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,0,"{""name"":""rect"",""x"":46,""y"":106,""width"":37,""height"":32}",{}
+valid_FINGER_p11213_s1_image3.png,22579,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,1,"{""name"":""rect"",""x"":51,""y"":92,""width"":27,""height"":71}",{}
+valid_FINGER_p11261_s1_image1.png,20500,"{""Abnormal Subclass Label"":""distal tuft fracture""}",3,0,"{""name"":""rect"",""x"":65,""y"":82,""width"":13,""height"":16}",{}
+valid_FINGER_p11261_s1_image1.png,20500,"{""Abnormal Subclass Label"":""distal tuft fracture""}",3,1,"{""name"":""rect"",""x"":82,""y"":164,""width"":23,""height"":11}",{}
+valid_FINGER_p11261_s1_image1.png,20500,"{""Abnormal Subclass Label"":""distal tuft fracture""}",3,2,"{""name"":""rect"",""x"":82,""y"":175,""width"":34,""height"":14}",{}
+valid_FINGER_p11261_s1_image2.png,25058,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,0,"{""name"":""rect"",""x"":61,""y"":104,""width"":21,""height"":18}",{}
+valid_FINGER_p11261_s1_image2.png,25058,"{""Abnormal Subclass Label"":""distal tuft fracture""}",2,1,"{""name"":""rect"",""x"":74,""y"":198,""width"":8,""height"":21}",{}
+valid_FINGER_p11261_s1_image3.png,19081,"{""Abnormal Subclass Label"":""distal tuft fracture""}",3,0,"{""name"":""rect"",""x"":49,""y"":96,""width"":18,""height"":14}",{}
+valid_FINGER_p11261_s1_image3.png,19081,"{""Abnormal Subclass Label"":""distal tuft fracture""}",3,1,"{""name"":""rect"",""x"":47,""y"":186,""width"":19,""height"":11}",{}
+valid_FINGER_p11261_s1_image3.png,19081,"{""Abnormal Subclass Label"":""distal tuft fracture""}",3,2,"{""name"":""rect"",""x"":46,""y"":196,""width"":21,""height"":12}",{}
+valid_FINGER_p11288_s1_image1.png,31117,"{""Abnormal Subclass Label"":""IP joint dislocation""}",1,0,"{""name"":""rect"",""x"":66,""y"":199,""width"":43,""height"":18}",{}
+valid_FINGER_p11288_s1_image2.png,30752,"{""Abnormal Subclass Label"":""IP joint dislocation""}",1,0,"{""name"":""rect"",""x"":68,""y"":194,""width"":43,""height"":24}",{}
+valid_FINGER_p11288_s1_image3.png,32128,"{""Abnormal Subclass Label"":""IP joint dislocation""}",1,0,"{""name"":""rect"",""x"":99,""y"":169,""width"":51,""height"":40}",{}
+valid_FINGER_p11291_s1_image1.png,27545,"{""Abnormal Subclass Label"":""distal tuft fracture""}",1,0,"{""name"":""rect"",""x"":67,""y"":142,""width"":16,""height"":18}",{}
+valid_FINGER_p11291_s1_image2.png,24993,"{""Abnormal Subclass Label"":""distal tuft fracture""}",1,0,"{""name"":""rect"",""x"":55,""y"":143,""width"":15,""height"":11}",{}
+valid_FINGER_p11291_s1_image3.png,25476,"{""Abnormal Subclass Label"":""distal tuft fracture""}",1,0,"{""name"":""rect"",""x"":72,""y"":144,""width"":10,""height"":13}",{}
+valid_FINGER_p11291_s1_image4.png,28499,"{""Abnormal Subclass Label"":""distal tuft fracture""}",1,0,"{""name"":""rect"",""x"":38,""y"":154,""width"":15,""height"":11}",{}
+valid_FINGER_p11315_s1_image1.png,165080,"{""Abnormal Subclass Label"":""IP base fracture""}",1,0,"{""name"":""rect"",""x"":67,""y"":92,""width"":21,""height"":20}",{}
+valid_FINGER_p11330_s1_image1.png,42407,"{""Abnormal Subclass Label"":""osteotomy""}",1,0,"{""name"":""rect"",""x"":208,""y"":23,""width"":54,""height"":50}",{}
+valid_FINGER_p11330_s1_image2.png,44295,"{""Abnormal Subclass Label"":""osteotomy""}",1,0,"{""name"":""rect"",""x"":236,""y"":19,""width"":57,""height"":48}",{}
+valid_FINGER_p11341_s1_image1.png,29620,"{""Abnormal Subclass Label"":""healed fracture""}",2,0,"{""name"":""rect"",""x"":69,""y"":161,""width"":25,""height"":19}",{}
+valid_FINGER_p11341_s1_image1.png,29620,"{""Abnormal Subclass Label"":""healed fracture""}",2,1,"{""name"":""rect"",""x"":66,""y"":202,""width"":32,""height"":41}",{}
+valid_FINGER_p11341_s1_image2.png,29653,"{""Abnormal Subclass Label"":""healed fracture""}",1,0,"{""name"":""rect"",""x"":48,""y"":176,""width"":30,""height"":34}",{}
+valid_FINGER_p11341_s1_image3.png,31354,"{""Abnormal Subclass Label"":""healed fracture""}",1,0,"{""name"":""rect"",""x"":64,""y"":154,""width"":30,""height"":37}",{}
+valid_FINGER_p11347_s1_image1.png,63410,{},0,0,{},{}
+valid_FINGER_p11347_s1_image2.png,62008,{},0,0,{},{}
+valid_FINGER_p11347_s1_image3.png,51763,{},0,0,{},{}
+valid_FINGER_p11385_s1_image1.png,109546,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":223,""y"":130,""width"":30,""height"":34}",{}
+valid_FINGER_p11385_s1_image1.png,109546,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":250,""y"":196,""width"":21,""height"":22}",{}
+valid_FINGER_p11385_s1_image2.png,111861,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":245,""y"":178,""width"":20,""height"":36}",{}
+valid_FINGER_p11385_s1_image3.png,121783,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":165,""y"":178,""width"":33,""height"":35}",{}
+valid_FINGER_p11397_s1_image1.png,29874,"{""Abnormal Subclass Label"":""enchondroma""}",1,0,"{""name"":""rect"",""x"":69,""y"":135,""width"":39,""height"":82}",{}
+valid_FINGER_p11397_s1_image2.png,19549,"{""Abnormal Subclass Label"":""enchondroma""}",1,0,"{""name"":""rect"",""x"":48,""y"":138,""width"":37,""height"":79}",{}
+valid_FINGER_p11397_s1_image3.png,28472,{},1,0,"{""name"":""rect"",""x"":75,""y"":170,""width"":30,""height"":47}",{}
+valid_FINGER_p11424_s1_image1.png,28661,{},1,0,"{""name"":""rect"",""x"":76,""y"":167,""width"":24,""height"":40}",{}
+valid_FINGER_p11424_s1_image2.png,25354,{},1,0,"{""name"":""rect"",""x"":71,""y"":171,""width"":46,""height"":42}",{}
+valid_FINGER_p11424_s1_image3.png,27047,{},1,0,"{""name"":""rect"",""x"":86,""y"":173,""width"":40,""height"":39}",{}
+valid_FINGER_p11461_s1_image1.png,25741,"{""Abnormal Subclass Label"":""enchondroma""}",1,0,"{""name"":""rect"",""x"":82,""y"":127,""width"":36,""height"":43}",{}
+valid_FINGER_p11461_s1_image2.png,28714,"{""Abnormal Subclass Label"":""enchondroma""}",1,0,"{""name"":""rect"",""x"":52,""y"":152,""width"":27,""height"":43}",{}
+valid_FINGER_p11461_s1_image3.png,26621,"{""Abnormal Subclass Label"":""enchondroma""}",1,0,"{""name"":""rect"",""x"":63,""y"":143,""width"":42,""height"":44}",{}
+valid_FINGER_p11466_s1_image1.png,33028,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":49,""y"":62,""width"":34,""height"":47}",{}
+valid_FINGER_p11466_s1_image2.png,31556,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":42,""y"":78,""width"":44,""height"":50}",{}
+valid_FINGER_p11466_s1_image3.png,28435,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":38,""y"":75,""width"":32,""height"":41}",{}
+valid_FINGER_p11578_s1_image1.png,32490,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":115,""y"":250,""width"":80,""height"":126}",{}
+valid_FINGER_p11578_s1_image2.png,29343,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":96,""y"":207,""width"":72,""height"":147}",{}
+valid_FINGER_p11578_s1_image3.png,29812,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":115,""y"":263,""width"":67,""height"":137}",{}
+valid_FINGER_p11578_s1_image4.png,34353,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":113,""y"":236,""width"":61,""height"":143}",{}
+valid_FINGER_p11598_s1_image1.png,44872,"{""Abnormal Subclass Label"":""hardware""}",4,0,"{""name"":""rect"",""x"":181,""y"":153,""width"":32,""height"":80}",{}
+valid_FINGER_p11598_s1_image1.png,44872,"{""Abnormal Subclass Label"":""hardware""}",4,1,"{""name"":""rect"",""x"":188,""y"":302,""width"":15,""height"":25}",{}
+valid_FINGER_p11598_s1_image1.png,44872,"{""Abnormal Subclass Label"":""hardware""}",4,2,"{""name"":""rect"",""x"":119,""y"":272,""width"":24,""height"":21}",{}
+valid_FINGER_p11598_s1_image1.png,44872,"{""Abnormal Subclass Label"":""hardware""}",4,3,"{""name"":""rect"",""x"":149,""y"":339,""width"":39,""height"":30}",{}
+valid_FINGER_p11598_s1_image2.png,34058,"{""Abnormal Subclass Label"":""hardware""}",3,0,"{""name"":""rect"",""x"":92,""y"":281,""width"":15,""height"":25}",{}
+valid_FINGER_p11598_s1_image2.png,34058,"{""Abnormal Subclass Label"":""hardware""}",3,1,"{""name"":""rect"",""x"":94,""y"":142,""width"":21,""height"":80}",{}
+valid_FINGER_p11598_s1_image2.png,34058,"{""Abnormal Subclass Label"":""hardware""}",3,2,"{""name"":""rect"",""x"":84,""y"":318,""width"":68,""height"":38}",{}
+valid_FINGER_p11598_s1_image3.png,39194,"{""Abnormal Subclass Label"":""hardware""}",4,0,"{""name"":""rect"",""x"":49,""y"":237,""width"":26,""height"":21}",{}
+valid_FINGER_p11598_s1_image3.png,39194,"{""Abnormal Subclass Label"":""hardware""}",4,1,"{""name"":""rect"",""x"":160,""y"":280,""width"":11,""height"":26}",{}
+valid_FINGER_p11598_s1_image3.png,39194,"{""Abnormal Subclass Label"":""hardware""}",4,2,"{""name"":""rect"",""x"":155,""y"":128,""width"":28,""height"":84}",{}
+valid_FINGER_p11598_s1_image3.png,39194,"{""Abnormal Subclass Label"":""hardware""}",4,3,"{""name"":""rect"",""x"":113,""y"":325,""width"":46,""height"":38}",{}
+valid_FINGER_p11667_s1_image1.png,110250,{},1,0,"{""name"":""rect"",""x"":158,""y"":199,""width"":24,""height"":54}",{}
+valid_FINGER_p11667_s1_image2.png,86080,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":153,""y"":237,""width"":25,""height"":56}",{}
+valid_FINGER_p11667_s1_image3.png,123925,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":168,""y"":225,""width"":20,""height"":49}",{}
+valid_FINGER_p11754_s1_image1.png,34143,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":195,""y"":84,""width"":30,""height"":146}",{}
+valid_FINGER_p11863_s1_image1.png,131693,"{""Abnormal Subclass Label"":""lunate fracture""}",3,0,"{""name"":""rect"",""x"":251,""y"":376,""width"":36,""height"":18}",{}
+valid_FINGER_p11863_s1_image1.png,131693,"{""Abnormal Subclass Label"":""lunate fracture""}",3,1,"{""name"":""rect"",""x"":307,""y"":413,""width"":2,""height"":2}",{}
+valid_FINGER_p11863_s1_image1.png,131693,"{""Abnormal Subclass Label"":""lunate fracture""}",3,2,"{""name"":""rect"",""x"":221,""y"":397,""width"":50,""height"":45}",{}
+valid_FINGER_p11863_s1_image2.png,134672,"{""Abnormal Subclass Label"":""lunate fracture""}",2,0,"{""name"":""rect"",""x"":139,""y"":307,""width"":25,""height"":22}",{}
+valid_FINGER_p11863_s1_image2.png,134672,"{""Abnormal Subclass Label"":""lunate fracture""}",2,1,"{""name"":""rect"",""x"":133,""y"":341,""width"":45,""height"":28}",{}
+valid_FINGER_p11863_s1_image3.png,134617,{},2,0,"{""name"":""rect"",""x"":356,""y"":342,""width"":43,""height"":52}",{}
+valid_FINGER_p11863_s1_image3.png,134617,{},2,1,"{""name"":""rect"",""x"":338,""y"":319,""width"":65,""height"":32}",{}
+valid_FINGER_p11885_s1_image1.png,42737,"{""Abnormal Subclass Label"":""metacarpal fracture""}",1,0,"{""name"":""rect"",""x"":106,""y"":175,""width"":49,""height"":36}",{}
+valid_FINGER_p11885_s1_image2.png,30228,"{""Abnormal Subclass Label"":""metacarpal fracture""}",1,0,"{""name"":""rect"",""x"":92,""y"":216,""width"":45,""height"":38}",{}
+valid_FINGER_p11885_s1_image3.png,33673,"{""Abnormal Subclass Label"":""metacarpal fracture""}",1,0,"{""name"":""rect"",""x"":82,""y"":155,""width"":33,""height"":37}",{}
+valid_FINGER_p11889_s1_image1.png,31305,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":31,""y"":216,""width"":44,""height"":50}",{}
+valid_FINGER_p11889_s1_image1.png,31305,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":24,""y"":254,""width"":56,""height"":24}",{}
+valid_FINGER_p11889_s1_image2.png,37933,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":34,""y"":211,""width"":38,""height"":50}",{}
+valid_FINGER_p11889_s1_image2.png,37933,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":34,""y"":246,""width"":42,""height"":23}",{}
+valid_FINGER_p11889_s1_image3.png,36572,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":41,""y"":219,""width"":39,""height"":53}",{}
+valid_FINGER_p11889_s1_image3.png,36572,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":45,""y"":261,""width"":41,""height"":19}",{}
+valid_FINGER_p11891_s1_image1.png,39011,"{""Abnormal Subclass Label"":""soft tissue swelling""}",1,0,"{""name"":""rect"",""x"":148,""y"":197,""width"":58,""height"":39}",{}
+valid_FINGER_p11891_s1_image2.png,30099,"{""Abnormal Subclass Label"":""soft tissue swelling""}",1,0,"{""name"":""rect"",""x"":123,""y"":166,""width"":62,""height"":30}",{}
+valid_FINGER_p11891_s1_image3.png,38123,"{""Abnormal Subclass Label"":""soft tissue swelling""}",1,0,"{""name"":""rect"",""x"":137,""y"":186,""width"":61,""height"":29}",{}
+valid_FINGER_p11892_s1_image1.png,33596,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":79,""y"":217,""width"":15,""height"":27}",{}
+valid_FINGER_p11892_s1_image2.png,30922,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":82,""y"":183,""width"":48,""height"":37}",{}
+valid_FINGER_p11892_s1_image3.png,32094,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":103,""y"":195,""width"":34,""height"":36}",{}
+valid_FINGER_p11893_s1_image1.png,109265,"{""Abnormal Subclass Label"":""cant identify abnormality""}",0,0,{},{}
+valid_FINGER_p11893_s1_image2.png,115341,"{""Abnormal Subclass Label"":""cant identify abnormality""}",0,0,{},{}
+valid_FINGER_p11893_s1_image3.png,115633,"{""Abnormal Subclass Label"":""cant identify abnormality""}",0,0,{},{}
+valid_FINGER_p11894_s1_image1.png,97506,"{""Abnormal Subclass Label"":""cant identify abnormality""}",0,0,{},{}
+valid_FINGER_p11894_s1_image2.png,60313,"{""Abnormal Subclass Label"":""cant identify abnormality""}",0,0,{},{}
+valid_FINGER_p11895_s1_image1.png,43825,"{""Abnormal Subclass Label"":""fracture\n""}",1,0,"{""name"":""rect"",""x"":127,""y"":375,""width"":51,""height"":46}",{}
+valid_FINGER_p11895_s1_image2.png,35159,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":108,""y"":379,""width"":72,""height"":54}",{}
+valid_FINGER_p11895_s1_image3.png,40533,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":59,""y"":345,""width"":88,""height"":67}",{}
+valid_FINGER_p11898_s1_image1.png,114599,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":86,""y"":386,""width"":92,""height"":35}",{}
+valid_FINGER_p11898_s1_image1.png,114599,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":91,""y"":389,""width"":30,""height"":28}",{}
+valid_FINGER_p11898_s1_image2.png,122911,"{""Abnormal Subclass Label"":""healed fracture with hardware""}",2,0,"{""name"":""rect"",""x"":179,""y"":295,""width"":32,""height"":31}",{}
+valid_FINGER_p11898_s1_image2.png,122911,"{""Abnormal Subclass Label"":""healed fracture with hardware""}",2,1,"{""name"":""rect"",""x"":117,""y"":256,""width"":100,""height"":76}",{}
+valid_FINGER_p11898_s1_image3.png,122378,{},2,0,"{""name"":""rect"",""x"":215,""y"":328,""width"":39,""height"":47}",{}
+valid_FINGER_p11898_s1_image3.png,122378,{},2,1,"{""name"":""rect"",""x"":159,""y"":316,""width"":103,""height"":60}",{}
+valid_FINGER_p11899_s1_image1.png,48191,"{""Abnormal Subclass Label"":""Hardware""}",1,0,"{""name"":""rect"",""x"":80,""y"":49,""width"":117,""height"":228}",{}
+valid_FINGER_p11899_s1_image2.png,48093,"{""Abnormal Subclass Label"":""K-wire""}",1,0,"{""name"":""rect"",""x"":126,""y"":52,""width"":16,""height"":260}",{}
+valid_FINGER_p11899_s1_image3.png,48518,"{""Abnormal Subclass Label"":""K-wire""}",1,0,"{""name"":""rect"",""x"":94,""y"":69,""width"":38,""height"":240}",{}
+valid_FINGER_p11903_s1_image1.png,40830,"{""Abnormal Subclass Label"":""Avulsion""}",1,0,"{""name"":""rect"",""x"":189,""y"":215,""width"":25,""height"":25}",{}
+valid_FINGER_p11903_s1_image2.png,43782,"{""Abnormal Subclass Label"":""Avulsion""}",1,0,"{""name"":""rect"",""x"":129,""y"":205,""width"":21,""height"":23}",{}
+valid_FINGER_p11903_s1_image3.png,42566,"{""Abnormal Subclass Label"":""Avulsion""}",1,0,"{""name"":""rect"",""x"":128,""y"":207,""width"":29,""height"":25}",{}
+valid_FINGER_p11907_s1_image1.png,25422,"{""Abnormal Subclass Label"":""fracture-displacement""}",1,0,"{""name"":""rect"",""x"":30,""y"":149,""width"":34,""height"":39}",{}
+valid_FINGER_p11907_s1_image2.png,25746,"{""Abnormal Subclass Label"":""fracture-displacement""}",1,0,"{""name"":""rect"",""x"":63,""y"":119,""width"":42,""height"":42}",{}
+valid_FINGER_p11907_s1_image3.png,24229,"{""Abnormal Subclass Label"":""fracture-displacement""}",1,0,"{""name"":""rect"",""x"":68,""y"":116,""width"":43,""height"":24}",{}
+valid_FINGER_p11910_s1_image1.png,66634,"{""Abnormal Subclass Label"":""OA""}",2,0,"{""name"":""rect"",""x"":251,""y"":331,""width"":83,""height"":75}",{}
+valid_FINGER_p11910_s1_image1.png,66634,"{""Abnormal Subclass Label"":""OA""}",2,1,"{""name"":""rect"",""x"":75,""y"":341,""width"":63,""height"":75}",{}
+valid_FINGER_p11910_s1_image2.png,44210,"{""Abnormal Subclass Label"":""OA""}",1,0,"{""name"":""rect"",""x"":114,""y"":280,""width"":87,""height"":65}",{}
+valid_FINGER_p11910_s1_image3.png,67273,"{""Abnormal Subclass Label"":""OA""}",2,0,"{""name"":""rect"",""x"":256,""y"":388,""width"":81,""height"":71}",{}
+valid_FINGER_p11910_s1_image3.png,67273,"{""Abnormal Subclass Label"":""OA""}",2,1,"{""name"":""rect"",""x"":70,""y"":392,""width"":86,""height"":81}",{}
+valid_FINGER_p11910_s1_image4.png,46052,"{""Abnormal Subclass Label"":""OA""}",1,0,"{""name"":""rect"",""x"":122,""y"":293,""width"":89,""height"":70}",{}
+valid_FINGER_p11910_s1_image5.png,47999,"{""Abnormal Subclass Label"":""OA""}",1,0,"{""name"":""rect"",""x"":96,""y"":269,""width"":98,""height"":83}",{}
+valid_FINGER_p11911_s1_image1.png,88040,"{""Abnormal Subclass Label"":""Nothing""}",0,0,{},{}
+valid_FINGER_p11911_s1_image2.png,80330,"{""Abnormal Subclass Label"":""Nothing""}",0,0,{},{}
+valid_FINGER_p11911_s1_image3.png,97577,"{""Abnormal Subclass Label"":""Nothing""}",0,0,{},{}
+valid_FINGER_p11912_s1_image1.png,33681,"{""Abnormal Subclass Label"":""Nothing""}",0,0,{},{}
+valid_FINGER_p11912_s1_image2.png,33753,"{""Abnormal Subclass Label"":""Nothing""}",0,0,{},{}
+valid_FINGER_p11912_s1_image3.png,34809,"{""Abnormal Subclass Label"":""Nothing""}",0,0,{},{}
+valid_FINGER_p11913_s1_image1.png,47627,"{""Abnormal Subclass Label"":""nothing""}",0,0,{},{}
+valid_FINGER_p11913_s1_image2.png,54776,"{""Abnormal Subclass Label"":""nothing""}",0,0,{},{}
+valid_FINGER_p11913_s1_image3.png,55546,"{""Abnormal Subclass Label"":""nothing""}",0,0,{},{}
+valid_FINGER_p11914_s1_image1.png,126478,"{""Abnormal Subclass Label"":""OA""}",1,0,"{""name"":""rect"",""x"":178,""y"":333,""width"":45,""height"":29}",{}
+valid_FINGER_p11914_s1_image2.png,127526,"{""Abnormal Subclass Label"":""OA""}",1,0,"{""name"":""rect"",""x"":160,""y"":280,""width"":60,""height"":46}",{}
+valid_FINGER_p11914_s1_image3.png,146487,"{""Abnormal Subclass Label"":""oa""}",1,0,"{""name"":""rect"",""x"":169,""y"":345,""width"":38,""height"":26}",{}
+valid_FINGER_p11915_s1_image1.png,44093,"{""Abnormal Subclass Label"":""FRACTURE""}",1,0,"{""name"":""rect"",""x"":151,""y"":364,""width"":30,""height"":46}",{}
+valid_FINGER_p11915_s1_image2.png,29026,"{""Abnormal Subclass Label"":""Fracture""}",1,0,"{""name"":""rect"",""x"":87,""y"":384,""width"":31,""height"":69}",{}
+valid_FINGER_p11915_s1_image3.png,34199,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":81,""y"":311,""width"":56,""height"":73}",{}
+valid_FINGER_p11917_s1_image1.png,39409,"{""Abnormal Subclass Label"":""old +scaphoid fracture""}",2,0,"{""name"":""rect"",""x"":120,""y"":223,""width"":28,""height"":28}",{}
+valid_FINGER_p11917_s1_image1.png,39409,"{""Abnormal Subclass Label"":""old +scaphoid fracture""}",2,1,"{""name"":""rect"",""x"":76,""y"":402,""width"":53,""height"":28}",{}
+valid_FINGER_p11917_s1_image2.png,35806,"{""Abnormal Subclass Label"":""old fracture""}",1,0,"{""name"":""rect"",""x"":162,""y"":212,""width"":43,""height"":39}",{}
+valid_FINGER_p11917_s1_image3.png,41906,"{""Abnormal Subclass Label"":""old +scaphoid fracture""}",2,0,"{""name"":""rect"",""x"":115,""y"":216,""width"":30,""height"":31}",{}
+valid_FINGER_p11917_s1_image3.png,41906,"{""Abnormal Subclass Label"":""old +scaphoid fracture""}",2,1,"{""name"":""rect"",""x"":96,""y"":398,""width"":60,""height"":34}",{}
+valid_FINGER_p11917_s1_image4.png,42768,"{""Abnormal Subclass Label"":""old +scaphoid fracture""}",2,0,"{""name"":""rect"",""x"":125,""y"":208,""width"":24,""height"":30}",{}
+valid_FINGER_p11917_s1_image4.png,42768,"{""Abnormal Subclass Label"":""old +scaphoid fracture""}",2,1,"{""name"":""rect"",""x"":108,""y"":390,""width"":47,""height"":25}",{}
+valid_FINGER_p11919_s1_image1.png,37153,"{""Abnormal Subclass Label"":""K-wires""}",1,0,"{""name"":""rect"",""x"":100,""y"":186,""width"":37,""height"":126}",{}
+valid_FINGER_p11919_s1_image2.png,32401,"{""Abnormal Subclass Label"":""K-wires""}",1,0,"{""name"":""rect"",""x"":82,""y"":217,""width"":65,""height"":113}",{}
+valid_FINGER_p11919_s1_image3.png,39597,"{""Abnormal Subclass Label"":""K-wires""}",1,0,"{""name"":""rect"",""x"":108,""y"":177,""width"":39,""height"":119}",{}
+valid_FOREARM_p11248_s1_image1.png,116969,"{""Abnormal Subclass Label"":""Casted supracondylar fracture""}",1,0,"{""name"":""rect"",""x"":37,""y"":93,""width"":53,""height"":53}",{}
+valid_FOREARM_p11248_s1_image2.png,149232,"{""Abnormal Subclass Label"":""Nothing but cast""}",0,0,{},{}
+valid_FOREARM_p11258_s1_image1.png,26581,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":218,""y"":124,""width"":112,""height"":19}",{}
+valid_FOREARM_p11258_s1_image2.png,26548,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":62,""y"":243,""width"":45,""height"":134}",{}
+valid_FOREARM_p11308_s1_image1.png,122242,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":244,""y"":260,""width"":32,""height"":133}",{}
+valid_FOREARM_p11308_s1_image2.png,150604,"{""Abnormal Subclass Label"":""hardware + cast""}",1,0,"{""name"":""rect"",""x"":197,""y"":247,""width"":79,""height"":112}",{}
+valid_FOREARM_p11319_s1_image1.png,34065,"{""Abnormal Subclass Label"":""disloged hardware""}",1,0,"{""name"":""rect"",""x"":139,""y"":139,""width"":162,""height"":51}",{}
+valid_FOREARM_p11319_s1_image2.png,29948,"{""Abnormal Subclass Label"":""disloged hardware""}",1,0,"{""name"":""rect"",""x"":104,""y"":188,""width"":34,""height"":148}",{}
+valid_FOREARM_p11328_s1_image1.png,199884,"{""Abnormal Subclass Label"":""fractures""}",2,0,"{""name"":""rect"",""x"":263,""y"":81,""width"":18,""height"":22}",{}
+valid_FOREARM_p11328_s1_image1.png,199884,"{""Abnormal Subclass Label"":""fractures""}",2,1,"{""name"":""rect"",""x"":247,""y"":86,""width"":21,""height"":26}",{}
+valid_FOREARM_p11328_s1_image2.png,189947,"{""Abnormal Subclass Label"":""fractures""}",2,0,"{""name"":""rect"",""x"":187,""y"":92,""width"":27,""height"":22}",{}
+valid_FOREARM_p11328_s1_image2.png,189947,"{""Abnormal Subclass Label"":""fractures""}",2,1,"{""name"":""rect"",""x"":202,""y"":119,""width"":32,""height"":24}",{}
+valid_FOREARM_p11328_s1_image3.png,163597,"{""Abnormal Subclass Label"":""nothing""}",0,0,{},{}
+valid_FOREARM_p11359_s1_image1.png,63406,"{""Abnormal Subclass Label"":""hardware + cast""}",1,0,"{""name"":""rect"",""x"":296,""y"":328,""width"":97,""height"":181}",{}
+valid_FOREARM_p11359_s1_image2.png,52540,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":238,""y"":96,""width"":258,""height"":66}",{}
+valid_FOREARM_p11359_s1_image3.png,80107,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":203,""y"":428,""width"":37,""height"":65}",{}
+valid_FOREARM_p11397_s1_image1.png,147247,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":154,""y"":232,""width"":90,""height"":102}",{}
+valid_FOREARM_p11397_s1_image1.png,147247,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":186,""y"":221,""width"":73,""height"":83}",{}
+valid_FOREARM_p11397_s1_image2.png,133844,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":160,""y"":237,""width"":38,""height"":101}",{}
+valid_FOREARM_p11397_s1_image2.png,133844,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":186,""y"":231,""width"":34,""height"":120}",{}
+valid_FOREARM_p11400_s1_image1.png,39684,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":102,""y"":283,""width"":81,""height"":78}",{}
+valid_FOREARM_p11400_s1_image2.png,28471,"{""Abnormal Subclass Label"":""hardware""}",1,0,"{""name"":""rect"",""x"":119,""y"":200,""width"":105,""height"":23}",{}
+valid_FOREARM_p11401_s1_image1.png,37413,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":160,""y"":134,""width"":34,""height"":56}",{}
+valid_FOREARM_p11401_s1_image2.png,34524,"{""Abnormal Subclass Label"":""fracture""}",1,0,"{""name"":""rect"",""x"":94,""y"":53,""width"":43,""height"":27}",{}
+valid_FOREARM_p11405_s1_image1.png,115319,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":163,""y"":133,""width"":32,""height"":135}",{}
+valid_FOREARM_p11405_s1_image1.png,115319,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":203,""y"":101,""width"":33,""height"":207}",{}
+valid_FOREARM_p11405_s1_image2.png,117207,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":143,""y"":247,""width"":87,""height"":108}",{}
+valid_FOREARM_p11405_s1_image2.png,117207,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":83,""y"":193,""width"":120,""height"":167}",{}
+valid_FOREARM_p11407_s1_image1.png,27469,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":172,""y"":99,""width"":130,""height"":24}",{}
+valid_FOREARM_p11407_s1_image1.png,27469,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":199,""y"":127,""width"":83,""height"":29}",{}
+valid_FOREARM_p11407_s1_image2.png,29601,"{""Abnormal Subclass Label"":""hardware""}",2,0,"{""name"":""rect"",""x"":66,""y"":232,""width"":34,""height"":82}",{}
+valid_FOREARM_p11407_s1_image2.png,29601,"{""Abnormal Subclass Label"":""hardware""}",2,1,"{""name"":""rect"",""x"":95,""y"":212,""width"":34,""height"":128}",{}
+valid_FOREARM_p11408_s1_image1.png,25496,{},2,0,"{""name"":""rect"",""x"":103,""y"":72,""width"":190,""height"":37}",{}
+valid_FOREARM_p11408_s1_image1.png,25496,{},2,1,"{""name"":""rect"",""x"":66,""y"":118,""width"":269,""height"":43}",{}
+valid_FOREARM_p11408_s1_image2.png,36353,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":121,""y"":88,""width"":167,""height"":216}",{}
+valid_FOREARM_p11408_s1_image2.png,36353,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":189,""y"":182,""width"":41,""height"":32}",{}
+valid_FOREARM_p11408_s1_image3.png,31995,"{""Abnormal Subclass Label"":""fracture""}",3,0,"{""name"":""rect"",""x"":112,""y"":154,""width"":64,""height"":153}",{}
+valid_FOREARM_p11408_s1_image3.png,31995,"{""Abnormal Subclass Label"":""fracture""}",3,1,"{""name"":""rect"",""x"":122,""y"":123,""width"":90,""height"":205}",{}
+valid_FOREARM_p11408_s1_image3.png,31995,"{""Abnormal Subclass Label"":""fracture""}",3,2,"{""name"":""rect"",""x"":155,""y"":201,""width"":33,""height"":43}",{}
+valid_FOREARM_p11409_s1_image1.png,101523,{},4,0,"{""name"":""rect"",""x"":265,""y"":82,""width"":108,""height"":215}",{}
+valid_FOREARM_p11409_s1_image1.png,101523,{},4,1,"{""name"":""rect"",""x"":206,""y"":202,""width"":112,""height"":243}",{}
+valid_FOREARM_p11409_s1_image1.png,101523,{},4,2,"{""name"":""rect"",""x"":241,""y"":405,""width"":17,""height"":17}",{}
+valid_FOREARM_p11409_s1_image1.png,101523,{},4,3,"{""name"":""rect"",""x"":213,""y"":283,""width"":11,""height"":16}",{}
+valid_FOREARM_p11409_s1_image2.png,99587,{},4,0,"{""name"":""rect"",""x"":306,""y"":264,""width"":21,""height"":13}",{}
+valid_FOREARM_p11409_s1_image2.png,99587,{},4,1,"{""name"":""rect"",""x"":339,""y"":380,""width"":27,""height"":16}",{}
+valid_FOREARM_p11409_s1_image2.png,99587,{},4,2,"{""name"":""rect"",""x"":240,""y"":204,""width"":93,""height"":248}",{}
+valid_FOREARM_p11409_s1_image2.png,99587,{},4,3,"{""name"":""rect"",""x"":196,""y"":91,""width"":105,""height"":210}",{}
+valid_FOREARM_p11411_s1_image1.png,137074,"{""Abnormal Subclass Label"":""fracture""}",5,0,"{""name"":""rect"",""x"":162,""y"":4,""width"":151,""height"":325}",{}
+valid_FOREARM_p11411_s1_image1.png,137074,"{""Abnormal Subclass Label"":""fracture""}",5,1,"{""name"":""rect"",""x"":80,""y"":29,""width"":35,""height"":27}",{}
+valid_FOREARM_p11411_s1_image1.png,137074,"{""Abnormal Subclass Label"":""fracture""}",5,2,"{""name"":""rect"",""x"":41,""y"":0,""width"":139,""height"":87}",{}
+valid_FOREARM_p11411_s1_image1.png,137074,"{""Abnormal Subclass Label"":""fracture""}",5,3,"{""name"":""rect"",""x"":105,""y"":71,""width"":43,""height"":20}",{}
+valid_FOREARM_p11411_s1_image1.png,137074,"{""Abnormal Subclass Label"":""fracture""}",5,4,"{""name"":""rect"",""x"":181,""y"":74,""width"":42,""height"":51}",{}
+valid_FOREARM_p11411_s1_image2.png,127050,{},3,0,"{""name"":""rect"",""x"":132,""y"":61,""width"":50,""height"":44}",{}
+valid_FOREARM_p11411_s1_image2.png,127050,{},3,1,"{""name"":""rect"",""x"":43,""y"":56,""width"":104,""height"":28}",{}
+valid_FOREARM_p11411_s1_image2.png,127050,{},3,2,"{""name"":""rect"",""x"":35,""y"":37,""width"":145,""height"":38}",{}
+valid_FOREARM_p11412_s1_image1.png,158278,{},4,0,"{""name"":""rect"",""x"":108,""y"":183,""width"":62,""height"":13}",{}
+valid_FOREARM_p11412_s1_image1.png,158278,{},4,1,"{""name"":""rect"",""x"":280,""y"":128,""width"":28,""height"":22}",{}
+valid_FOREARM_p11412_s1_image1.png,158278,{},4,2,"{""name"":""rect"",""x"":122,""y"":259,""width"":36,""height"":117}",{}
+valid_FOREARM_p11412_s1_image1.png,158278,{},4,3,"{""name"":""rect"",""x"":260,""y"":213,""width"":34,""height"":117}",{}
+valid_FOREARM_p11418_s1_image1.png,144276,"{""Abnormal Subclass Label"":""fracture""}",4,0,"{""name"":""rect"",""x"":174,""y"":237,""width"":44,""height"":22}",{}
+valid_FOREARM_p11418_s1_image1.png,144276,"{""Abnormal Subclass Label"":""fracture""}",4,1,"{""name"":""rect"",""x"":212,""y"":251,""width"":58,""height"":47}",{}
+valid_FOREARM_p11418_s1_image1.png,144276,"{""Abnormal Subclass Label"":""fracture""}",4,2,"{""name"":""rect"",""x"":136,""y"":183,""width"":74,""height"":129}",{}
+valid_FOREARM_p11418_s1_image1.png,144276,"{""Abnormal Subclass Label"":""fracture""}",4,3,"{""name"":""rect"",""x"":165,""y"":137,""width"":83,""height"":139}",{}
+valid_FOREARM_p11418_s1_image2.png,133117,{},4,0,"{""name"":""rect"",""x"":255,""y"":335,""width"":28,""height"":36}",{}
+valid_FOREARM_p11418_s1_image2.png,133117,{},4,1,"{""name"":""rect"",""x"":221,""y"":356,""width"":48,""height"":36}",{}
+valid_FOREARM_p11418_s1_image2.png,133117,{},4,2,"{""name"":""rect"",""x"":198,""y"":271,""width"":93,""height"":157}",{}
+valid_FOREARM_p11418_s1_image2.png,133117,{},4,3,"{""name"":""rect"",""x"":188,""y"":197,""width"":89,""height"":171}",{}
+valid_FOREARM_p11418_s2_image1.png,123820,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_FOREARM_p11418_s2_image2.png,124569,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_FOREARM_p11419_s1_image1.png,23519,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":123,""y"":62,""width"":36,""height"":40}",{}
+valid_FOREARM_p11419_s1_image1.png,23519,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":124,""y"":86,""width"":44,""height"":34}",{}
+valid_FOREARM_p11419_s1_image2.png,27685,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":96,""y"":74,""width"":30,""height"":46}",{}
+valid_FOREARM_p11419_s1_image2.png,27685,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":124,""y"":66,""width"":62,""height"":46}",{}
+valid_FOREARM_p11421_s1_image1.png,144441,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":193,""y"":377,""width"":46,""height"":61}",{}
+valid_FOREARM_p11421_s1_image1.png,144441,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":151,""y"":400,""width"":21,""height"":26}",{}
+valid_FOREARM_p11421_s1_image2.png,152074,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":138,""y"":312,""width"":59,""height"":67}",{}
+valid_FOREARM_p11421_s1_image2.png,152074,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":109,""y"":374,""width"":23,""height"":22}",{}
+valid_FOREARM_p11424_s1_image1.png,114346,"{""Abnormal Subclass Label"":""fracture""}",4,0,"{""name"":""rect"",""x"":192,""y"":181,""width"":112,""height"":26}",{}
+valid_FOREARM_p11424_s1_image1.png,114346,"{""Abnormal Subclass Label"":""fracture""}",4,1,"{""name"":""rect"",""x"":220,""y"":182,""width"":47,""height"":30}",{}
+valid_FOREARM_p11424_s1_image1.png,114346,"{""Abnormal Subclass Label"":""fracture""}",4,2,"{""name"":""rect"",""x"":233,""y"":202,""width"":54,""height"":42}",{}
+valid_FOREARM_p11424_s1_image1.png,114346,"{""Abnormal Subclass Label"":""fracture""}",4,3,"{""name"":""rect"",""x"":191,""y"":209,""width"":157,""height"":33}",{}
+valid_FOREARM_p11424_s1_image2.png,126085,"{""Abnormal Subclass Label"":""fracture""}",4,0,"{""name"":""rect"",""x"":156,""y"":217,""width"":42,""height"":30}",{}
+valid_FOREARM_p11424_s1_image2.png,126085,"{""Abnormal Subclass Label"":""fracture""}",4,1,"{""name"":""rect"",""x"":194,""y"":242,""width"":42,""height"":54}",{}
+valid_FOREARM_p11424_s1_image2.png,126085,"{""Abnormal Subclass Label"":""fracture""}",4,2,"{""name"":""rect"",""x"":200,""y"":196,""width"":46,""height"":161}",{}
+valid_FOREARM_p11424_s1_image2.png,126085,"{""Abnormal Subclass Label"":""fracture""}",4,3,"{""name"":""rect"",""x"":157,""y"":190,""width"":38,""height"":109}",{}
+valid_FOREARM_p11425_s1_image1.png,30086,"{""Abnormal Subclass Label"":""fracture""}",3,0,"{""name"":""rect"",""x"":140,""y"":115,""width"":62,""height"":43}",{}
+valid_FOREARM_p11425_s1_image1.png,30086,"{""Abnormal Subclass Label"":""fracture""}",3,1,"{""name"":""rect"",""x"":100,""y"":114,""width"":162,""height"":49}",{}
+valid_FOREARM_p11425_s1_image1.png,30086,"{""Abnormal Subclass Label"":""fracture""}",3,2,"{""name"":""rect"",""x"":381,""y"":83,""width"":58,""height"":52}",{}
+valid_FOREARM_p11425_s1_image2.png,31704,"{""Abnormal Subclass Label"":""fracture""}",2,0,"{""name"":""rect"",""x"":76,""y"":62,""width"":30,""height"":45}",{}
+valid_FOREARM_p11425_s1_image2.png,31704,"{""Abnormal Subclass Label"":""fracture""}",2,1,"{""name"":""rect"",""x"":96,""y"":239,""width"":37,""height"":168}",{}
+valid_FOREARM_p11425_s1_image3.png,32447,"{""Abnormal Subclass Label"":""fracture""}",3,0,"{""name"":""rect"",""x"":179,""y"":98,""width"":56,""height"":40}",{}
+valid_FOREARM_p11425_s1_image3.png,32447,"{""Abnormal Subclass Label"":""fracture""}",3,1,"{""name"":""rect"",""x"":145,""y"":113,""width"":154,""height"":32}",{}
+valid_FOREARM_p11425_s1_image3.png,32447,"{""Abnormal Subclass Label"":""fracture""}",3,2,"{""name"":""rect"",""x"":407,""y"":107,""width"":52,""height"":50}",{}
+valid_FOREARM_p11426_s1_image1.png,138816,{},1,0,"{""name"":""rect"",""x"":168,""y"":247,""width"":38,""height"":59}",{}
+valid_FOREARM_p11426_s1_image2.png,84444,{},1,0,"{""name"":""rect"",""x"":165,""y"":95,""width"":112,""height"":49}",{}
+valid_FOREARM_p11433_s1_image1.png,127503,{},2,0,"{""name"":""rect"",""x"":223,""y"":224,""width"":22,""height"":18}",{}
+valid_FOREARM_p11433_s1_image1.png,127503,{},2,1,"{""name"":""rect"",""x"":243,""y"":242,""width"":31,""height"":21}",{}
+valid_FOREARM_p11433_s1_image2.png,108479,"{""Abnormal Subclass Label"":""no image""}",0,0,{},{}
+valid_FOREARM_p11433_s1_image3.png,118313,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_FOREARM_p11434_s1_image1.png,31754,{},2,0,"{""name"":""rect"",""x"":74,""y"":215,""width"":44,""height"":94}",{}
+valid_FOREARM_p11434_s1_image1.png,31754,{},2,1,"{""name"":""rect"",""x"":79,""y"":125,""width"":57,""height"":165}",{}
+valid_FOREARM_p11434_s1_image2.png,24470,{},2,0,"{""name"":""rect"",""x"":131,""y"":111,""width"":182,""height"":30}",{}
+valid_FOREARM_p11434_s1_image2.png,24470,{},2,1,"{""name"":""rect"",""x"":233,""y"":69,""width"":157,""height"":39}",{}
+valid_FOREARM_p11435_s1_image1.png,31136,{},2,0,"{""name"":""rect"",""x"":81,""y"":123,""width"":39,""height"":121}",{}
+valid_FOREARM_p11435_s1_image1.png,31136,{},2,1,"{""name"":""rect"",""x"":112,""y"":156,""width"":28,""height"":120}",{}
+valid_FOREARM_p11435_s1_image2.png,25747,{},2,0,"{""name"":""rect"",""x"":185,""y"":115,""width"":129,""height"":26}",{}
+valid_FOREARM_p11435_s1_image2.png,25747,{},2,1,"{""name"":""rect"",""x"":218,""y"":75,""width"":129,""height"":40}",{}
+valid_FOREARM_p11437_s1_image1.png,28497,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_FOREARM_p11437_s1_image2.png,42402,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_FOREARM_p11439_s1_image1.png,100089,{},2,0,"{""name"":""rect"",""x"":163,""y"":115,""width"":119,""height"":214}",{}
+valid_FOREARM_p11439_s1_image1.png,100089,{},2,1,"{""name"":""rect"",""x"":113,""y"":174,""width"":102,""height"":154}",{}
+valid_FOREARM_p11439_s1_image2.png,100756,{},1,0,"{""name"":""rect"",""x"":118,""y"":115,""width"":117,""height"":213}",{}
+valid_FOREARM_p11440_s1_image1.png,33463,{},1,0,"{""name"":""rect"",""x"":349,""y"":95,""width"":60,""height"":67}",{}
+valid_FOREARM_p11440_s1_image2.png,64586,{},1,0,"{""name"":""rect"",""x"":188,""y"":153,""width"":147,""height"":130}",{}
+valid_FOREARM_p11440_s1_image3.png,37489,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_FOREARM_p11442_s1_image1.png,119371,{},1,0,"{""name"":""rect"",""x"":89,""y"":162,""width"":106,""height"":90}",{}
+valid_FOREARM_p11442_s1_image2.png,125315,{},2,0,"{""name"":""rect"",""x"":353,""y"":113,""width"":75,""height"":70}",{}
+valid_FOREARM_p11442_s1_image2.png,125315,{},2,1,"{""name"":""rect"",""x"":8,""y"":119,""width"":65,""height"":75}",{}
+valid_FOREARM_p11443_s1_image1.png,25532,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_FOREARM_p11443_s1_image2.png,23245,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11238_s1_image1.png,141285,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11238_s1_image2.png,124434,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11238_s1_image3.png,129239,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11275_s1_image1.png,186021,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11275_s1_image2.png,180278,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11275_s1_image3.png,177691,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11319_s1_image1.png,46852,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11319_s1_image2.png,50973,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11319_s1_image3.png,62637,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11333_s1_image1.png,137622,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11333_s1_image2.png,137438,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11498_s1_image1.png,63705,{},1,0,"{""name"":""rect"",""x"":196,""y"":95,""width"":56,""height"":122}",{}
+valid_HAND_p11498_s1_image2.png,49427,{},1,0,"{""name"":""rect"",""x"":146,""y"":96,""width"":40,""height"":115}",{}
+valid_HAND_p11498_s1_image3.png,66097,{},1,0,"{""name"":""rect"",""x"":218,""y"":88,""width"":60,""height"":115}",{}
+valid_HAND_p11501_s1_image1.png,53593,"{""Abnormal Subclass Label"":""no abnormality""}",1,0,"{""name"":""rect"",""x"":183,""y"":145,""width"":48,""height"":48}",{}
+valid_HAND_p11501_s1_image2.png,45135,{},3,0,"{""name"":""rect"",""x"":120,""y"":219,""width"":32,""height"":60}",{}
+valid_HAND_p11501_s1_image2.png,45135,{},3,1,"{""name"":""rect"",""x"":164,""y"":152,""width"":21,""height"":66}",{}
+valid_HAND_p11501_s1_image2.png,45135,{},3,2,"{""name"":""rect"",""x"":212,""y"":170,""width"":28,""height"":73}",{}
+valid_HAND_p11501_s1_image3.png,49758,{},3,0,"{""name"":""rect"",""x"":166,""y"":202,""width"":34,""height"":79}",{}
+valid_HAND_p11501_s1_image3.png,49758,{},3,1,"{""name"":""rect"",""x"":212,""y"":121,""width"":35,""height"":76}",{}
+valid_HAND_p11501_s1_image3.png,49758,{},3,2,"{""name"":""rect"",""x"":264,""y"":146,""width"":24,""height"":68}",{}
+valid_HAND_p11502_s1_image1.png,41561,{},1,0,"{""name"":""rect"",""x"":88,""y"":86,""width"":36,""height"":122}",{}
+valid_HAND_p11502_s1_image2.png,45252,{},1,0,"{""name"":""rect"",""x"":40,""y"":100,""width"":111,""height"":194}",{}
+valid_HAND_p11502_s1_image3.png,42619,{},1,0,"{""name"":""rect"",""x"":111,""y"":79,""width"":137,""height"":126}",{}
+valid_HAND_p11502_s1_image4.png,44080,{},1,0,"{""name"":""rect"",""x"":90,""y"":83,""width"":78,""height"":122}",{}
+valid_HAND_p11503_s1_image1.png,49191,{},3,0,"{""name"":""rect"",""x"":224,""y"":282,""width"":21,""height"":47}",{}
+valid_HAND_p11503_s1_image1.png,49191,{},3,1,"{""name"":""rect"",""x"":197,""y"":287,""width"":17,""height"":40}",{}
+valid_HAND_p11503_s1_image1.png,49191,{},3,2,"{""name"":""rect"",""x"":160,""y"":283,""width"":28,""height"":44}",{}
+valid_HAND_p11503_s1_image2.png,48367,{},3,0,"{""name"":""rect"",""x"":149,""y"":281,""width"":20,""height"":47}",{}
+valid_HAND_p11503_s1_image2.png,48367,{},3,1,"{""name"":""rect"",""x"":188,""y"":281,""width"":18,""height"":46}",{}
+valid_HAND_p11503_s1_image2.png,48367,{},3,2,"{""name"":""rect"",""x"":214,""y"":282,""width"":16,""height"":45}",{}
+valid_HAND_p11503_s1_image3.png,35905,{},1,0,"{""name"":""rect"",""x"":135,""y"":231,""width"":44,""height"":81}",{}
+valid_HAND_p11505_s1_image1.png,59225,"{""Abnormal Subclass Label"":""oa""}",2,0,"{""name"":""rect"",""x"":193,""y"":142,""width"":19,""height"":13}",{}
+valid_HAND_p11505_s1_image1.png,59225,"{""Abnormal Subclass Label"":""oa""}",2,1,"{""name"":""rect"",""x"":198,""y"":170,""width"":14,""height"":14}",{}
+valid_HAND_p11505_s1_image2.png,62135,"{""Abnormal Subclass Label"":""oa""}",6,0,"{""name"":""rect"",""x"":112,""y"":169,""width"":19,""height"":11}",{}
+valid_HAND_p11505_s1_image2.png,62135,"{""Abnormal Subclass Label"":""oa""}",6,1,"{""name"":""rect"",""x"":116,""y"":191,""width"":23,""height"":18}",{}
+valid_HAND_p11505_s1_image2.png,62135,"{""Abnormal Subclass Label"":""oa""}",6,2,"{""name"":""rect"",""x"":168,""y"":131,""width"":25,""height"":18}",{}
+valid_HAND_p11505_s1_image2.png,62135,"{""Abnormal Subclass Label"":""oa""}",6,3,"{""name"":""rect"",""x"":195,""y"":154,""width"":30,""height"":27}",{}
+valid_HAND_p11505_s1_image2.png,62135,"{""Abnormal Subclass Label"":""oa""}",6,4,"{""name"":""rect"",""x"":261,""y"":134,""width"":24,""height"":16}",{}
+valid_HAND_p11505_s1_image2.png,62135,"{""Abnormal Subclass Label"":""oa""}",6,5,"{""name"":""rect"",""x"":204,""y"":113,""width"":23,""height"":15}",{}
+valid_HAND_p11505_s1_image3.png,59023,"{""Abnormal Subclass Label"":""oa""}",5,0,"{""name"":""rect"",""x"":105,""y"":169,""width"":26,""height"":16}",{}
+valid_HAND_p11505_s1_image3.png,59023,"{""Abnormal Subclass Label"":""oa""}",5,1,"{""name"":""rect"",""x"":111,""y"":193,""width"":29,""height"":20}",{}
+valid_HAND_p11505_s1_image3.png,59023,"{""Abnormal Subclass Label"":""oa""}",5,2,"{""name"":""rect"",""x"":160,""y"":125,""width"":27,""height"":11}",{}
+valid_HAND_p11505_s1_image3.png,59023,"{""Abnormal Subclass Label"":""oa""}",5,3,"{""name"":""rect"",""x"":202,""y"":146,""width"":26,""height"":22}",{}
+valid_HAND_p11505_s1_image3.png,59023,"{""Abnormal Subclass Label"":""oa""}",5,4,"{""name"":""rect"",""x"":259,""y"":118,""width"":31,""height"":17}",{}
+valid_HAND_p11509_s1_image1.png,151018,{},0,0,{},{}
+valid_HAND_p11509_s1_image2.png,147728,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11509_s1_image3.png,150439,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11510_s1_image1.png,57027,{},0,0,{},{}
+valid_HAND_p11510_s1_image2.png,46132,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11510_s1_image3.png,56868,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11518_s1_image1.png,167405,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11518_s1_image2.png,161028,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11520_s1_image1.png,46504,{},1,0,"{""name"":""rect"",""x"":87,""y"":239,""width"":33,""height"":67}",{}
+valid_HAND_p11520_s1_image2.png,46243,{},1,0,"{""name"":""rect"",""x"":95,""y"":230,""width"":34,""height"":62}",{}
+valid_HAND_p11520_s1_image3.png,42025,{},1,0,"{""name"":""rect"",""x"":99,""y"":249,""width"":38,""height"":64}",{}
+valid_HAND_p11521_s1_image1.png,38896,{},3,0,"{""name"":""rect"",""x"":288,""y"":137,""width"":17,""height"":29}",{}
+valid_HAND_p11521_s1_image1.png,38896,{},3,1,"{""name"":""rect"",""x"":195,""y"":99,""width"":37,""height"":28}",{}
+valid_HAND_p11521_s1_image1.png,38896,{},3,2,"{""name"":""rect"",""x"":117,""y"":64,""width"":58,""height"":39}",{}
+valid_HAND_p11521_s1_image2.png,42161,{},5,0,"{""name"":""rect"",""x"":89,""y"":97,""width"":20,""height"":27}",{}
+valid_HAND_p11521_s1_image2.png,42161,{},5,1,"{""name"":""rect"",""x"":107,""y"":71,""width"":29,""height"":18}",{}
+valid_HAND_p11521_s1_image2.png,42161,{},5,2,"{""name"":""rect"",""x"":157,""y"":74,""width"":33,""height"":40}",{}
+valid_HAND_p11521_s1_image2.png,42161,{},5,3,"{""name"":""rect"",""x"":208,""y"":76,""width"":16,""height"":23}",{}
+valid_HAND_p11521_s1_image2.png,42161,{},5,4,"{""name"":""rect"",""x"":284,""y"":113,""width"":35,""height"":20}",{}
+valid_HAND_p11521_s1_image3.png,40653,{},5,0,"{""name"":""rect"",""x"":33,""y"":101,""width"":47,""height"":36}",{}
+valid_HAND_p11521_s1_image3.png,40653,{},5,1,"{""name"":""rect"",""x"":88,""y"":73,""width"":22,""height"":25}",{}
+valid_HAND_p11521_s1_image3.png,40653,{},5,2,"{""name"":""rect"",""x"":146,""y"":68,""width"":41,""height"":48}",{}
+valid_HAND_p11521_s1_image3.png,40653,{},5,3,"{""name"":""rect"",""x"":209,""y"":76,""width"":29,""height"":19}",{}
+valid_HAND_p11521_s1_image3.png,40653,{},5,4,"{""name"":""rect"",""x"":293,""y"":102,""width"":20,""height"":18}",{}
+valid_HAND_p11524_s1_image1.png,48904,{},1,0,"{""name"":""rect"",""x"":91,""y"":265,""width"":77,""height"":63}",{}
+valid_HAND_p11524_s1_image2.png,55188,{},1,0,"{""name"":""rect"",""x"":33,""y"":254,""width"":119,""height"":74}",{}
+valid_HAND_p11524_s1_image3.png,55964,{},1,0,"{""name"":""rect"",""x"":77,""y"":280,""width"":88,""height"":48}",{}
+valid_HAND_p11525_s1_image1.png,69080,{},2,0,"{""name"":""rect"",""x"":299,""y"":96,""width"":21,""height"":62}",{}
+valid_HAND_p11525_s1_image1.png,69080,{},2,1,"{""name"":""rect"",""x"":233,""y"":76,""width"":17,""height"":46}",{}
+valid_HAND_p11525_s1_image2.png,66765,{},2,0,"{""name"":""rect"",""x"":237,""y"":74,""width"":26,""height"":46}",{}
+valid_HAND_p11525_s1_image2.png,66765,{},2,1,"{""name"":""rect"",""x"":299,""y"":93,""width"":24,""height"":60}",{}
+valid_HAND_p11525_s1_image3.png,65383,{},2,0,"{""name"":""rect"",""x"":251,""y"":68,""width"":36,""height"":36}",{}
+valid_HAND_p11525_s1_image3.png,65383,{},2,1,"{""name"":""rect"",""x"":286,""y"":177,""width"":63,""height"":22}",{}
+valid_HAND_p11530_s1_image1.png,52755,{},2,0,"{""name"":""rect"",""x"":137,""y"":155,""width"":44,""height"":51}",{}
+valid_HAND_p11530_s1_image1.png,52755,{},2,1,"{""name"":""rect"",""x"":112,""y"":187,""width"":23,""height"":25}",{}
+valid_HAND_p11530_s1_image2.png,49322,{},2,0,"{""name"":""rect"",""x"":98,""y"":189,""width"":26,""height"":29}",{}
+valid_HAND_p11530_s1_image2.png,49322,{},2,1,"{""name"":""rect"",""x"":55,""y"":216,""width"":28,""height"":25}",{}
+valid_HAND_p11530_s1_image3.png,48383,{},1,0,"{""name"":""rect"",""x"":267,""y"":187,""width"":31,""height"":35}",{}
+valid_HAND_p11531_s1_image1.png,144336,{},1,0,"{""name"":""rect"",""x"":205,""y"":268,""width"":25,""height"":29}",{}
+valid_HAND_p11531_s1_image2.png,138193,{},1,0,"{""name"":""rect"",""x"":248,""y"":266,""width"":40,""height"":29}",{}
+valid_HAND_p11531_s1_image3.png,145465,{},1,0,"{""name"":""rect"",""x"":219,""y"":281,""width"":37,""height"":40}",{}
+valid_HAND_p11532_s1_image1.png,42829,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11532_s1_image2.png,58573,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11532_s1_image3.png,55353,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11533_s1_image1.png,75888,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11533_s1_image2.png,73999,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11536_s1_image1.png,51587,{},1,0,"{""name"":""rect"",""x"":103,""y"":264,""width"":46,""height"":59}",{}
+valid_HAND_p11536_s1_image2.png,63180,{},2,0,"{""name"":""rect"",""x"":144,""y"":241,""width"":27,""height"":61}",{}
+valid_HAND_p11536_s1_image2.png,63180,{},2,1,"{""name"":""rect"",""x"":177,""y"":261,""width"":28,""height"":48}",{}
+valid_HAND_p11536_s1_image3.png,52738,{},2,0,"{""name"":""rect"",""x"":171,""y"":243,""width"":26,""height"":52}",{}
+valid_HAND_p11536_s1_image3.png,52738,{},2,1,"{""name"":""rect"",""x"":203,""y"":255,""width"":29,""height"":47}",{}
+valid_HAND_p11537_s1_image1.png,58543,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11537_s1_image2.png,45246,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11538_s1_image1.png,141629,{},1,0,"{""name"":""rect"",""x"":116,""y"":97,""width"":122,""height"":229}",{}
+valid_HAND_p11538_s1_image2.png,145716,{},2,0,"{""name"":""rect"",""x"":160,""y"":163,""width"":55,""height"":73}",{}
+valid_HAND_p11538_s1_image2.png,145716,{},2,1,"{""name"":""rect"",""x"":217,""y"":197,""width"":39,""height"":50}",{}
+valid_HAND_p11539_s1_image1.png,138683,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11539_s1_image2.png,137959,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11539_s1_image3.png,147653,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HAND_p11541_s1_image1.png,144723,{},1,0,"{""name"":""rect"",""x"":168,""y"":237,""width"":36,""height"":84}",{}
+valid_HAND_p11541_s1_image2.png,143549,{},1,0,"{""name"":""rect"",""x"":228,""y"":246,""width"":36,""height"":78}",{}
+valid_HAND_p11541_s1_image3.png,140308,{},1,0,"{""name"":""rect"",""x"":241,""y"":251,""width"":30,""height"":77}",{}
+valid_HAND_p11545_s1_image1.png,48946,{},4,0,"{""name"":""rect"",""x"":153,""y"":147,""width"":81,""height"":137}",{}
+valid_HAND_p11545_s1_image1.png,48946,{},4,1,"{""name"":""rect"",""x"":174,""y"":140,""width"":93,""height"":167}",{}
+valid_HAND_p11545_s1_image1.png,48946,{},4,2,"{""name"":""rect"",""x"":214,""y"":173,""width"":48,""height"":104}",{}
+valid_HAND_p11545_s1_image1.png,48946,{},4,3,"{""name"":""rect"",""x"":157,""y"":132,""width"":67,""height"":32}",{}
+valid_HAND_p11545_s1_image2.png,55605,{},3,0,"{""name"":""rect"",""x"":138,""y"":142,""width"":42,""height"":167}",{}
+valid_HAND_p11545_s1_image2.png,55605,{},3,1,"{""name"":""rect"",""x"":172,""y"":134,""width"":61,""height"":190}",{}
+valid_HAND_p11545_s1_image2.png,55605,{},3,2,"{""name"":""rect"",""x"":228,""y"":180,""width"":23,""height"":133}",{}
+valid_HAND_p11545_s1_image3.png,47614,{},1,0,"{""name"":""rect"",""x"":112,""y"":86,""width"":125,""height"":182}",{}
+valid_HUMERUS_p11248_s1_image1.png,45833,{},2,0,"{""name"":""rect"",""x"":123,""y"":83,""width"":87,""height"":125}",{}
+valid_HUMERUS_p11248_s1_image1.png,45833,{},2,1,"{""name"":""rect"",""x"":106,""y"":31,""width"":82,""height"":73}",{}
+valid_HUMERUS_p11248_s1_image2.png,42845,{},2,0,"{""name"":""rect"",""x"":119,""y"":50,""width"":114,""height"":145}",{}
+valid_HUMERUS_p11248_s1_image2.png,42845,{},2,1,"{""name"":""rect"",""x"":100,""y"":33,""width"":69,""height"":77}",{}
+valid_HUMERUS_p11311_s1_image1.png,109323,{},1,0,"{""name"":""rect"",""x"":151,""y"":252,""width"":58,""height"":77}",{}
+valid_HUMERUS_p11311_s1_image2.png,91902,{},1,0,"{""name"":""rect"",""x"":138,""y"":272,""width"":52,""height"":56}",{}
+valid_HUMERUS_p11313_s1_image1.png,73598,{},1,0,"{""name"":""rect"",""x"":143,""y"":67,""width"":204,""height"":243}",{}
+valid_HUMERUS_p11313_s1_image2.png,64761,{},1,0,"{""name"":""rect"",""x"":99,""y"":45,""width"":221,""height"":276}",{}
+valid_HUMERUS_p11313_s1_image3.png,70943,{},1,0,"{""name"":""rect"",""x"":159,""y"":33,""width"":191,""height"":281}",{}
+valid_HUMERUS_p11391_s1_image1.png,48165,{},1,0,"{""name"":""rect"",""x"":114,""y"":58,""width"":110,""height"":142}",{}
+valid_HUMERUS_p11391_s1_image2.png,44864,{},1,0,"{""name"":""rect"",""x"":111,""y"":53,""width"":87,""height"":146}",{}
+valid_HUMERUS_p11411_s1_image1.png,51051,{},1,0,"{""name"":""rect"",""x"":104,""y"":28,""width"":61,""height"":89}",{}
+valid_HUMERUS_p11411_s1_image2.png,30218,{},1,0,"{""name"":""rect"",""x"":134,""y"":35,""width"":77,""height"":83}",{}
+valid_HUMERUS_p11485_s1_image1.png,76473,{},1,0,"{""name"":""rect"",""x"":111,""y"":57,""width"":371,""height"":156}",{}
+valid_HUMERUS_p11485_s1_image2.png,86542,{},1,0,"{""name"":""rect"",""x"":158,""y"":103,""width"":267,""height"":224}",{}
+valid_HUMERUS_p11556_s1_image1.png,141357,{},1,0,"{""name"":""rect"",""x"":111,""y"":182,""width"":148,""height"":146}",{}
+valid_HUMERUS_p11556_s1_image2.png,117314,{},1,0,"{""name"":""rect"",""x"":160,""y"":124,""width"":185,""height"":136}",{}
+valid_HUMERUS_p11608_s1_image1.png,49637,{},1,0,"{""name"":""rect"",""x"":243,""y"":246,""width"":47,""height"":45}",{}
+valid_HUMERUS_p11608_s1_image2.png,53060,{},1,0,"{""name"":""rect"",""x"":102,""y"":171,""width"":55,""height"":65}",{}
+valid_HUMERUS_p11609_s1_image1.png,32611,{},0,0,{},{}
+valid_HUMERUS_p11613_s1_image1.png,39296,{},1,0,"{""name"":""rect"",""x"":310,""y"":72,""width"":82,""height"":91}",{}
+valid_HUMERUS_p11613_s1_image2.png,75711,{},1,0,"{""name"":""rect"",""x"":185,""y"":61,""width"":95,""height"":116}",{}
+valid_HUMERUS_p11615_s1_image1.png,49852,{},0,0,{},{}
+valid_HUMERUS_p11615_s1_image2.png,81809,{},0,0,{},{}
+valid_HUMERUS_p11616_s1_image1.png,49776,{},1,0,"{""name"":""rect"",""x"":204,""y"":246,""width"":62,""height"":55}",{}
+valid_HUMERUS_p11616_s1_image2.png,41939,{},1,0,"{""name"":""rect"",""x"":190,""y"":224,""width"":77,""height"":62}",{}
+valid_HUMERUS_p11620_s1_image1.png,51623,{},1,0,"{""name"":""rect"",""x"":93,""y"":66,""width"":116,""height"":115}",{}
+valid_HUMERUS_p11620_s1_image2.png,45165,{},1,0,"{""name"":""rect"",""x"":110,""y"":47,""width"":103,""height"":113}",{}
+valid_HUMERUS_p11623_s1_image1.png,127166,{},2,0,"{""name"":""rect"",""x"":130,""y"":62,""width"":105,""height"":154}",{}
+valid_HUMERUS_p11623_s1_image1.png,127166,{},2,1,"{""name"":""rect"",""x"":146,""y"":81,""width"":125,""height"":248}",{}
+valid_HUMERUS_p11624_s1_image1.png,99882,{},1,0,"{""name"":""rect"",""x"":97,""y"":179,""width"":49,""height"":138}",{}
+valid_HUMERUS_p11624_s1_image2.png,83339,{},1,0,"{""name"":""rect"",""x"":130,""y"":194,""width"":43,""height"":127}",{}
+valid_HUMERUS_p11625_s1_image1.png,25294,{},1,0,"{""name"":""rect"",""x"":49,""y"":92,""width"":57,""height"":47}",{}
+valid_HUMERUS_p11625_s1_image2.png,32443,{},1,0,"{""name"":""rect"",""x"":181,""y"":74,""width"":84,""height"":79}",{}
+valid_HUMERUS_p11628_s1_image1.png,51929,{},1,0,"{""name"":""rect"",""x"":258,""y"":243,""width"":62,""height"":85}",{}
+valid_HUMERUS_p11628_s1_image2.png,45322,{},1,0,"{""name"":""rect"",""x"":148,""y"":252,""width"":51,""height"":73}",{}
+valid_HUMERUS_p11633_s1_image1.png,40867,{},2,0,"{""name"":""rect"",""x"":221,""y"":106,""width"":166,""height"":84}",{}
+valid_HUMERUS_p11633_s1_image1.png,40867,{},2,1,"{""name"":""rect"",""x"":113,""y"":106,""width"":353,""height"":79}",{}
+valid_HUMERUS_p11633_s1_image2.png,41369,{},1,0,"{""name"":""rect"",""x"":140,""y"":136,""width"":340,""height"":57}",{}
+valid_HUMERUS_p11634_s1_image1.png,129518,{},2,0,"{""name"":""rect"",""x"":99,""y"":153,""width"":84,""height"":65}",{}
+valid_HUMERUS_p11634_s1_image1.png,129518,{},2,1,"{""name"":""rect"",""x"":78,""y"":150,""width"":161,""height"":76}",{}
+valid_HUMERUS_p11634_s1_image2.png,139709,{},2,0,"{""name"":""rect"",""x"":97,""y"":184,""width"":84,""height"":60}",{}
+valid_HUMERUS_p11634_s1_image2.png,139709,{},2,1,"{""name"":""rect"",""x"":89,""y"":132,""width"":135,""height"":143}",{}
+valid_HUMERUS_p11641_s1_image1.png,47093,{},1,0,"{""name"":""rect"",""x"":207,""y"":104,""width"":135,""height"":73}",{}
+valid_HUMERUS_p11641_s1_image2.png,48723,{},1,0,"{""name"":""rect"",""x"":199,""y"":171,""width"":100,""height"":116}",{}
+valid_HUMERUS_p11641_s2_image1.png,120867,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HUMERUS_p11641_s2_image2.png,107794,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_HUMERUS_p11643_s1_image1.png,30552,{},1,0,"{""name"":""rect"",""x"":147,""y"":89,""width"":66,""height"":75}",{}
+valid_HUMERUS_p11643_s1_image2.png,30403,{},1,0,"{""name"":""rect"",""x"":295,""y"":89,""width"":51,""height"":89}",{}
+valid_HUMERUS_p11648_s1_image1.png,43609,{},1,0,"{""name"":""rect"",""x"":173,""y"":117,""width"":74,""height"":73}",{}
+valid_HUMERUS_p11648_s1_image2.png,30347,{},1,0,"{""name"":""rect"",""x"":113,""y"":188,""width"":45,""height"":58}",{}
+valid_HUMERUS_p11648_s1_image3.png,52913,{},1,0,"{""name"":""rect"",""x"":96,""y"":192,""width"":78,""height"":74}",{}
+valid_HUMERUS_p11649_s1_image1.png,50193,{},1,0,"{""name"":""rect"",""x"":266,""y"":126,""width"":95,""height"":119}",{}
+valid_HUMERUS_p11649_s1_image2.png,57144,{},1,0,"{""name"":""rect"",""x"":243,""y"":91,""width"":93,""height"":131}",{}
+valid_HUMERUS_p11650_s1_image1.png,42093,{},2,0,"{""name"":""rect"",""x"":237,""y"":148,""width"":65,""height"":67}",{}
+valid_HUMERUS_p11650_s1_image1.png,42093,{},2,1,"{""name"":""rect"",""x"":164,""y"":60,""width"":208,""height"":268}",{}
+valid_HUMERUS_p11650_s1_image2.png,39711,{},2,0,"{""name"":""rect"",""x"":258,""y"":178,""width"":53,""height"":58}",{}
+valid_HUMERUS_p11650_s1_image2.png,39711,{},2,1,"{""name"":""rect"",""x"":185,""y"":70,""width"":195,""height"":256}",{}
+valid_HUMERUS_p11650_s1_image3.png,41141,{},2,0,"{""name"":""rect"",""x"":287,""y"":171,""width"":61,""height"":61}",{}
+valid_HUMERUS_p11650_s1_image3.png,41141,{},2,1,"{""name"":""rect"",""x"":150,""y"":118,""width"":282,""height"":208}",{}
+valid_HUMERUS_p11652_s1_image1.png,46279,{},2,0,"{""name"":""rect"",""x"":133,""y"":53,""width"":306,""height"":101}",{}
+valid_HUMERUS_p11652_s1_image1.png,46279,{},2,1,"{""name"":""rect"",""x"":259,""y"":63,""width"":87,""height"":70}",{}
+valid_HUMERUS_p11652_s1_image2.png,53175,{},2,0,"{""name"":""rect"",""x"":160,""y"":104,""width"":121,""height"":223}",{}
+valid_HUMERUS_p11652_s1_image2.png,53175,{},2,1,"{""name"":""rect"",""x"":201,""y"":179,""width"":47,""height"":73}",{}
+valid_HUMERUS_p11659_s1_image1.png,46312,{},1,0,"{""name"":""rect"",""x"":176,""y"":88,""width"":88,""height"":167}",{}
+valid_HUMERUS_p11659_s1_image2.png,42642,{},1,0,"{""name"":""rect"",""x"":166,""y"":94,""width"":127,""height"":162}",{}
+valid_HUMERUS_p11659_s1_image3.png,84140,{},1,0,"{""name"":""rect"",""x"":84,""y"":225,""width"":53,""height"":90}",{}
+valid_HUMERUS_p11659_s1_image4.png,33380,{},1,0,"{""name"":""rect"",""x"":117,""y"":137,""width"":79,""height"":113}",{}
+valid_HUMERUS_p11659_s1_image5.png,41949,{},1,0,"{""name"":""rect"",""x"":121,""y"":138,""width"":84,""height"":119}",{}
+valid_SHOULDER_p11188_s1_image1.png,71477,{},1,0,"{""name"":""rect"",""x"":154,""y"":218,""width"":89,""height"":63}",{}
+valid_SHOULDER_p11188_s1_image2.png,58850,{},1,0,"{""name"":""rect"",""x"":301,""y"":203,""width"":103,""height"":79}",{}
+valid_SHOULDER_p11188_s1_image3.png,79374,{},1,0,"{""name"":""rect"",""x"":229,""y"":184,""width"":131,""height"":120}",{}
+valid_SHOULDER_p11188_s2_image1.png,90409,{},1,0,"{""name"":""rect"",""x"":421,""y"":155,""width"":81,""height"":93}",{}
+valid_SHOULDER_p11188_s2_image2.png,73108,{},1,0,"{""name"":""rect"",""x"":114,""y"":144,""width"":126,""height"":121}",{}
+valid_SHOULDER_p11188_s2_image3.png,53668,{},1,0,"{""name"":""rect"",""x"":161,""y"":130,""width"":109,""height"":163}",{}
+valid_SHOULDER_p11213_s1_image1.png,67089,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11213_s1_image2.png,55443,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11290_s1_image1.png,69240,{},1,0,"{""name"":""rect"",""x"":124,""y"":108,""width"":189,""height"":211}",{}
+valid_SHOULDER_p11290_s1_image2.png,49749,{},1,0,"{""name"":""rect"",""x"":7,""y"":247,""width"":362,""height"":82}",{}
+valid_SHOULDER_p11290_s1_image3.png,67358,{},1,0,"{""name"":""rect"",""x"":84,""y"":141,""width"":205,""height"":184}",{}
+valid_SHOULDER_p11290_s1_image4.png,66823,{},1,0,"{""name"":""rect"",""x"":67,""y"":136,""width"":245,""height"":191}",{}
+valid_SHOULDER_p11290_s2_image1.png,118718,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11290_s2_image2.png,84656,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11290_s2_image3.png,78874,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11301_s1_image1.png,118498,{},1,0,"{""name"":""rect"",""x"":361,""y"":128,""width"":107,""height"":104}",{}
+valid_SHOULDER_p11306_s1_image1.png,56758,{},1,0,"{""name"":""rect"",""x"":151,""y"":133,""width"":118,""height"":111}",{}
+valid_SHOULDER_p11306_s1_image2.png,60809,{},1,0,"{""name"":""rect"",""x"":305,""y"":135,""width"":57,""height"":82}",{}
+valid_SHOULDER_p11306_s1_image3.png,67015,{},1,0,"{""name"":""rect"",""x"":116,""y"":203,""width"":174,""height"":116}",{}
+valid_SHOULDER_p11313_s1_image1.png,98088,{},1,0,"{""name"":""rect"",""x"":169,""y"":94,""width"":127,""height"":139}",{}
+valid_SHOULDER_p11313_s1_image2.png,100522,{},1,0,"{""name"":""rect"",""x"":145,""y"":87,""width"":135,""height"":142}",{}
+valid_SHOULDER_p11313_s1_image3.png,131004,{},1,0,"{""name"":""rect"",""x"":108,""y"":58,""width"":133,""height"":120}",{}
+valid_SHOULDER_p11317_s1_image1.png,92238,{},1,0,"{""name"":""rect"",""x"":195,""y"":94,""width"":98,""height"":59}",{}
+valid_SHOULDER_p11317_s1_image2.png,93495,{},2,0,"{""name"":""rect"",""x"":315,""y"":61,""width"":62,""height"":74}",{}
+valid_SHOULDER_p11317_s1_image2.png,93495,{},2,1,"{""name"":""rect"",""x"":177,""y"":82,""width"":254,""height"":32}",{}
+valid_SHOULDER_p11317_s1_image3.png,127917,{},1,0,"{""name"":""rect"",""x"":223,""y"":215,""width"":137,""height"":114}",{}
+valid_SHOULDER_p11317_s1_image4.png,77337,{},1,0,"{""name"":""rect"",""x"":251,""y"":143,""width"":152,""height"":46}",{}
+valid_SHOULDER_p11324_s1_image1.png,62410,{},1,0,"{""name"":""rect"",""x"":155,""y"":145,""width"":119,""height"":184}",{}
+valid_SHOULDER_p11324_s1_image2.png,68384,{},1,0,"{""name"":""rect"",""x"":201,""y"":176,""width"":113,""height"":151}",{}
+valid_SHOULDER_p11324_s1_image3.png,72366,{},1,0,"{""name"":""rect"",""x"":162,""y"":195,""width"":340,""height"":132}",{}
+valid_SHOULDER_p11325_s1_image1.png,104665,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11325_s1_image2.png,149306,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11325_s1_image3.png,103820,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11325_s1_image4.png,118345,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11326_s1_image1.png,73607,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11326_s1_image2.png,132626,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11333_s1_image1.png,64863,{},1,0,"{""name"":""rect"",""x"":133,""y"":171,""width"":172,""height"":153}",{}
+valid_SHOULDER_p11333_s1_image2.png,67247,{},1,0,"{""name"":""rect"",""x"":119,""y"":158,""width"":174,""height"":167}",{}
+valid_SHOULDER_p11333_s1_image3.png,44710,{},1,0,"{""name"":""rect"",""x"":105,""y"":182,""width"":94,""height"":145}",{}
+valid_SHOULDER_p11344_s1_image1.png,35340,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11344_s1_image2.png,62913,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11344_s1_image3.png,48345,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11344_s1_image4.png,122551,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11362_s1_image1.png,129283,{},1,0,"{""name"":""rect"",""x"":187,""y"":117,""width"":70,""height"":86}",{}
+valid_SHOULDER_p11362_s1_image2.png,148255,{},1,0,"{""name"":""rect"",""x"":283,""y"":117,""width"":63,""height"":93}",{}
+valid_SHOULDER_p11362_s1_image3.png,127192,{},1,0,"{""name"":""rect"",""x"":153,""y"":106,""width"":68,""height"":105}",{}
+valid_SHOULDER_p11380_s1_image1.png,70470,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11380_s1_image2.png,70305,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11386_s1_image1.png,120013,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11386_s1_image2.png,129438,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11386_s1_image3.png,108648,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11386_s1_image4.png,118009,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11454_s1_image1.png,67985,{},1,0,"{""name"":""rect"",""x"":96,""y"":132,""width"":191,""height"":194}",{}
+valid_SHOULDER_p11454_s1_image2.png,64256,{},1,0,"{""name"":""rect"",""x"":114,""y"":125,""width"":174,""height"":203}",{}
+valid_SHOULDER_p11454_s1_image3.png,61781,{},1,0,"{""name"":""rect"",""x"":88,""y"":132,""width"":193,""height"":195}",{}
+valid_SHOULDER_p11454_s1_image4.png,51854,{},1,0,"{""name"":""rect"",""x"":147,""y"":198,""width"":137,""height"":125}",{}
+valid_SHOULDER_p11485_s1_image1.png,69970,{},1,0,"{""name"":""rect"",""x"":105,""y"":136,""width"":120,""height"":188}",{}
+valid_SHOULDER_p11485_s1_image2.png,61775,{},0,0,{},{}
+valid_SHOULDER_p11485_s1_image3.png,50039,{},1,0,"{""name"":""rect"",""x"":106,""y"":117,""width"":268,""height"":120}",{}
+valid_SHOULDER_p11485_s1_image4.png,56312,{},1,0,"{""name"":""rect"",""x"":174,""y"":133,""width"":93,""height"":189}",{}
+valid_SHOULDER_p11518_s1_image1.png,98719,{},1,0,"{""name"":""rect"",""x"":149,""y"":159,""width"":192,""height"":152}",{}
+valid_SHOULDER_p11518_s1_image2.png,98868,{},1,0,"{""name"":""rect"",""x"":105,""y"":177,""width"":180,""height"":148}",{}
+valid_SHOULDER_p11518_s1_image3.png,70614,{},1,0,"{""name"":""rect"",""x"":134,""y"":169,""width"":174,""height"":175}",{}
+valid_SHOULDER_p11549_s1_image1.png,100375,{},1,0,"{""name"":""rect"",""x"":62,""y"":203,""width"":295,""height"":126}",{}
+valid_SHOULDER_p11549_s1_image2.png,133757,{},1,0,"{""name"":""rect"",""x"":123,""y"":136,""width"":181,""height"":188}",{}
+valid_SHOULDER_p11549_s1_image3.png,102444,{},1,0,"{""name"":""rect"",""x"":262,""y"":81,""width"":185,""height"":244}",{}
+valid_SHOULDER_p11549_s1_image4.png,95031,{},1,0,"{""name"":""rect"",""x"":162,""y"":141,""width"":170,""height"":186}",{}
+valid_SHOULDER_p11578_s1_image1.png,66254,{},1,0,"{""name"":""rect"",""x"":225,""y"":125,""width"":98,""height"":201}",{}
+valid_SHOULDER_p11578_s1_image2.png,66756,{},1,0,"{""name"":""rect"",""x"":166,""y"":154,""width"":107,""height"":174}",{}
+valid_SHOULDER_p11578_s1_image3.png,65315,{},1,0,"{""name"":""rect"",""x"":154,""y"":125,""width"":126,""height"":202}",{}
+valid_SHOULDER_p11578_s2_image1.png,71861,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11578_s2_image2.png,65975,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11578_s2_image3.png,58900,{},0,0,{},{}
+valid_SHOULDER_p11578_s2_image4.png,67001,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11586_s1_image1.png,66853,{},1,0,"{""name"":""rect"",""x"":217,""y"":156,""width"":127,""height"":169}",{}
+valid_SHOULDER_p11586_s1_image2.png,58198,{},1,0,"{""name"":""rect"",""x"":118,""y"":174,""width"":104,""height"":153}",{}
+valid_SHOULDER_p11601_s1_image1.png,58596,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11601_s1_image2.png,58990,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11601_s1_image3.png,89926,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11601_s1_image4.png,71391,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11703_s1_image1.png,60302,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11703_s1_image2.png,64122,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11706_s1_image1.png,127985,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11706_s1_image2.png,60276,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11706_s1_image3.png,78035,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11707_s1_image1.png,53230,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11707_s1_image2.png,85740,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11707_s1_image3.png,61228,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11707_s1_image4.png,54749,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11707_s1_image5.png,78626,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11707_s2_image1.png,68384,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11707_s2_image2.png,66948,{},1,0,"{""name"":""rect"",""x"":73,""y"":193,""width"":50,""height"":32}",{}
+valid_SHOULDER_p11707_s2_image3.png,64057,{},1,0,"{""name"":""rect"",""x"":56,""y"":187,""width"":31,""height"":30}",{}
+valid_SHOULDER_p11715_s1_image1.png,46282,"{""Abnormal Subclass Label"":""blank""}",0,0,{},{}
+valid_SHOULDER_p11715_s1_image2.png,71305,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11715_s1_image3.png,81391,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11719_s1_image1.png,143600,{},1,0,"{""name"":""rect"",""x"":74,""y"":149,""width"":93,""height"":172}",{}
+valid_SHOULDER_p11720_s1_image1.png,55541,{},1,0,"{""name"":""rect"",""x"":102,""y"":174,""width"":309,""height"":133}",{}
+valid_SHOULDER_p11720_s1_image2.png,75001,{},1,0,"{""name"":""rect"",""x"":46,""y"":132,""width"":189,""height"":192}",{}
+valid_SHOULDER_p11720_s1_image3.png,66254,{},1,0,"{""name"":""rect"",""x"":97,""y"":101,""width"":219,""height"":225}",{}
+valid_SHOULDER_p11720_s1_image4.png,60609,{},1,0,"{""name"":""rect"",""x"":143,""y"":94,""width"":172,""height"":229}",{}
+valid_SHOULDER_p11724_s1_image1.png,56932,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11724_s1_image2.png,65133,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11724_s1_image3.png,65588,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_SHOULDER_p11732_s1_image1.png,130095,{},1,0,"{""name"":""rect"",""x"":160,""y"":103,""width"":97,""height"":105}",{}
+valid_SHOULDER_p11732_s1_image2.png,127577,{},1,0,"{""name"":""rect"",""x"":242,""y"":108,""width"":84,""height"":120}",{}
+valid_SHOULDER_p11736_s1_image1.png,61052,{},1,0,"{""name"":""rect"",""x"":172,""y"":164,""width"":97,""height"":159}",{}
+valid_SHOULDER_p11738_s1_image1.png,64974,{},1,0,"{""name"":""rect"",""x"":117,""y"":9,""width"":284,""height"":316}",{}
+valid_SHOULDER_p11738_s1_image2.png,62747,{},1,0,"{""name"":""rect"",""x"":199,""y"":114,""width"":277,""height"":213}",{}
+valid_SHOULDER_p11738_s1_image3.png,71148,{},1,0,"{""name"":""rect"",""x"":91,""y"":12,""width"":232,""height"":306}",{}
+valid_SHOULDER_p11738_s1_image4.png,79333,{},1,0,"{""name"":""rect"",""x"":29,""y"":96,""width"":238,""height"":228}",{}
+valid_SHOULDER_p11740_s1_image1.png,64525,{},1,0,"{""name"":""rect"",""x"":170,""y"":125,""width"":120,""height"":202}",{}
+valid_SHOULDER_p11740_s1_image2.png,74376,{},1,0,"{""name"":""rect"",""x"":318,""y"":162,""width"":113,""height"":167}",{}
+valid_SHOULDER_p11740_s1_image3.png,83015,{},1,0,"{""name"":""rect"",""x"":50,""y"":212,""width"":205,""height"":112}",{}
+valid_SHOULDER_p11740_s1_image4.png,65633,{},1,0,"{""name"":""rect"",""x"":156,""y"":115,""width"":146,""height"":215}",{}
+valid_SHOULDER_p11740_s1_image5.png,67725,{},1,0,"{""name"":""rect"",""x"":147,""y"":148,""width"":112,""height"":177}",{}
+valid_SHOULDER_p11744_s1_image1.png,144224,{},1,0,"{""name"":""rect"",""x"":272,""y"":76,""width"":216,""height"":246}",{}
+valid_SHOULDER_p11747_s1_image1.png,111051,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11187_s1_image1.png,108505,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11188_s1_image1.png,119590,{},1,0,"{""name"":""rect"",""x"":204,""y"":298,""width"":37,""height"":29}",{}
+valid_WRIST_p11188_s1_image2.png,118836,{},1,0,"{""name"":""rect"",""x"":188,""y"":273,""width"":58,""height"":52}",{}
+valid_WRIST_p11188_s1_image3.png,106809,{},1,0,"{""name"":""rect"",""x"":205,""y"":232,""width"":51,""height"":44}",{}
+valid_WRIST_p11188_s1_image4.png,95100,{},1,0,"{""name"":""rect"",""x"":222,""y"":243,""width"":36,""height"":51}",{}
+valid_WRIST_p11190_s1_image1.png,46979,{},1,0,"{""name"":""rect"",""x"":118,""y"":224,""width"":73,""height"":99}",{}
+valid_WRIST_p11190_s1_image2.png,49854,{},1,0,"{""name"":""rect"",""x"":71,""y"":184,""width"":74,""height"":130}",{}
+valid_WRIST_p11192_s1_image1.png,39381,{},1,0,"{""name"":""rect"",""x"":95,""y"":132,""width"":99,""height"":193}",{}
+valid_WRIST_p11192_s1_image2.png,38977,{},1,0,"{""name"":""rect"",""x"":78,""y"":114,""width"":59,""height"":210}",{}
+valid_WRIST_p11192_s1_image3.png,39888,{},1,0,"{""name"":""rect"",""x"":93,""y"":115,""width"":78,""height"":209}",{}
+valid_WRIST_p11193_s1_image1.png,52713,{},0,0,{},{}
+valid_WRIST_p11193_s1_image2.png,59327,{},1,0,"{""name"":""rect"",""x"":196,""y"":220,""width"":51,""height"":40}",{}
+valid_WRIST_p11193_s1_image3.png,58980,{},1,0,"{""name"":""rect"",""x"":186,""y"":167,""width"":43,""height"":60}",{}
+valid_WRIST_p11196_s1_image1.png,40074,{},2,0,"{""name"":""rect"",""x"":98,""y"":213,""width"":31,""height"":27}",{}
+valid_WRIST_p11196_s1_image1.png,40074,{},2,1,"{""name"":""rect"",""x"":73,""y"":228,""width"":28,""height"":20}",{}
+valid_WRIST_p11196_s1_image2.png,38221,{},2,0,"{""name"":""rect"",""x"":104,""y"":205,""width"":30,""height"":32}",{}
+valid_WRIST_p11196_s1_image2.png,38221,{},2,1,"{""name"":""rect"",""x"":79,""y"":220,""width"":24,""height"":26}",{}
+valid_WRIST_p11196_s1_image3.png,31800,{},1,0,"{""name"":""rect"",""x"":68,""y"":236,""width"":32,""height"":28}",{}
+valid_WRIST_p11196_s1_image4.png,39245,{},1,0,"{""name"":""rect"",""x"":78,""y"":212,""width"":51,""height"":34}",{}
+valid_WRIST_p11197_s1_image1.png,56155,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11197_s1_image2.png,60475,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11197_s1_image3.png,54260,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11198_s1_image1.png,50154,{},1,0,"{""name"":""rect"",""x"":116,""y"":168,""width"":73,""height"":152}",{}
+valid_WRIST_p11198_s1_image2.png,55325,{},1,0,"{""name"":""rect"",""x"":137,""y"":251,""width"":81,""height"":74}",{}
+valid_WRIST_p11200_s1_image1.png,57638,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11200_s1_image2.png,42344,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11200_s1_image3.png,42950,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11201_s1_image1.png,48665,{},1,0,"{""name"":""rect"",""x"":197,""y"":245,""width"":63,""height"":68}",{}
+valid_WRIST_p11201_s1_image2.png,49155,{},1,0,"{""name"":""rect"",""x"":195,""y"":176,""width"":61,""height"":67}",{}
+valid_WRIST_p11202_s1_image1.png,176418,{},2,0,"{""name"":""rect"",""x"":111,""y"":254,""width"":47,""height"":73}",{}
+valid_WRIST_p11202_s1_image1.png,176418,{},2,1,"{""name"":""rect"",""x"":145,""y"":219,""width"":73,""height"":109}",{}
+valid_WRIST_p11202_s1_image2.png,169029,{},2,0,"{""name"":""rect"",""x"":153,""y"":266,""width"":47,""height"":61}",{}
+valid_WRIST_p11202_s1_image2.png,169029,{},2,1,"{""name"":""rect"",""x"":173,""y"":238,""width"":51,""height"":90}",{}
+valid_WRIST_p11202_s1_image3.png,186449,{},2,0,"{""name"":""rect"",""x"":183,""y"":252,""width"":65,""height"":75}",{}
+valid_WRIST_p11202_s1_image3.png,186449,{},2,1,"{""name"":""rect"",""x"":135,""y"":265,""width"":43,""height"":63}",{}
+valid_WRIST_p11203_s1_image1.png,163727,{},2,0,"{""name"":""rect"",""x"":138,""y"":119,""width"":93,""height"":73}",{}
+valid_WRIST_p11203_s1_image1.png,163727,{},2,1,"{""name"":""rect"",""x"":173,""y"":263,""width"":80,""height"":60}",{}
+valid_WRIST_p11203_s1_image2.png,119567,{},2,0,"{""name"":""rect"",""x"":102,""y"":215,""width"":52,""height"":50}",{}
+valid_WRIST_p11203_s1_image2.png,119567,{},2,1,"{""name"":""rect"",""x"":30,""y"":97,""width"":112,""height"":76}",{}
+valid_WRIST_p11206_s1_image1.png,159798,{},1,0,"{""name"":""rect"",""x"":166,""y"":267,""width"":53,""height"":58}",{}
+valid_WRIST_p11206_s1_image2.png,156860,{},1,0,"{""name"":""rect"",""x"":203,""y"":237,""width"":61,""height"":86}",{}
+valid_WRIST_p11206_s1_image3.png,156863,{},1,0,"{""name"":""rect"",""x"":215,""y"":263,""width"":53,""height"":65}",{}
+valid_WRIST_p11208_s1_image1.png,134547,{},2,0,"{""name"":""rect"",""x"":146,""y"":262,""width"":70,""height"":48}",{}
+valid_WRIST_p11208_s1_image1.png,134547,{},2,1,"{""name"":""rect"",""x"":238,""y"":284,""width"":23,""height"":16}",{}
+valid_WRIST_p11208_s1_image2.png,128013,{},2,0,"{""name"":""rect"",""x"":187,""y"":227,""width"":56,""height"":56}",{}
+valid_WRIST_p11208_s1_image2.png,128013,{},2,1,"{""name"":""rect"",""x"":256,""y"":258,""width"":13,""height"":17}",{}
+valid_WRIST_p11208_s1_image3.png,125415,{},2,0,"{""name"":""rect"",""x"":199,""y"":238,""width"":34,""height"":29}",{}
+valid_WRIST_p11208_s1_image3.png,125415,{},2,1,"{""name"":""rect"",""x"":159,""y"":238,""width"":54,""height"":42}",{}
+valid_WRIST_p11213_s1_image1.png,151862,{},1,0,"{""name"":""rect"",""x"":157,""y"":302,""width"":54,""height"":28}",{}
+valid_WRIST_p11213_s1_image2.png,152267,{},1,0,"{""name"":""rect"",""x"":173,""y"":134,""width"":58,""height"":120}",{}
+valid_WRIST_p11213_s1_image3.png,150080,{},2,0,"{""name"":""rect"",""x"":202,""y"":101,""width"":55,""height"":120}",{}
+valid_WRIST_p11213_s1_image3.png,150080,{},2,1,"{""name"":""rect"",""x"":161,""y"":113,""width"":25,""height"":30}",{}
+valid_WRIST_p11217_s1_image1.png,36344,{},1,0,"{""name"":""rect"",""x"":95,""y"":113,""width"":89,""height"":216}",{}
+valid_WRIST_p11217_s1_image2.png,47393,{},1,0,"{""name"":""rect"",""x"":101,""y"":92,""width"":91,""height"":235}",{}
+valid_WRIST_p11217_s1_image3.png,50453,{},1,0,"{""name"":""rect"",""x"":132,""y"":123,""width"":65,""height"":201}",{}
+valid_WRIST_p11218_s1_image1.png,143436,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11218_s1_image2.png,139407,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11218_s1_image3.png,133510,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11219_s1_image1.png,149286,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11219_s1_image2.png,120210,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11219_s1_image3.png,125375,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11219_s1_image4.png,120047,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11221_s1_image1.png,137871,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11221_s1_image2.png,148057,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11221_s1_image3.png,141489,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11222_s1_image1.png,52133,{},1,0,"{""name"":""rect"",""x"":122,""y"":106,""width"":67,""height"":73}",{}
+valid_WRIST_p11222_s1_image2.png,62131,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11222_s1_image3.png,51283,"{""Abnormal Subclass Label"":""no abnormality""}",1,0,"{""name"":""rect"",""x"":67,""y"":97,""width"":30,""height"":52}",{}
+valid_WRIST_p11225_s1_image1.png,154337,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11225_s1_image2.png,151931,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11225_s1_image3.png,153926,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11226_s1_image1.png,48484,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11226_s1_image2.png,53537,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11226_s1_image3.png,53866,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11233_s1_image1.png,52598,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11233_s1_image2.png,53072,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11233_s1_image3.png,54919,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11233_s1_image4.png,47695,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11235_s1_image1.png,97947,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11235_s1_image2.png,98463,{},1,0,"{""name"":""rect"",""x"":200,""y"":259,""width"":77,""height"":66}",{}
+valid_WRIST_p11235_s1_image3.png,98536,{},1,0,"{""name"":""rect"",""x"":173,""y"":261,""width"":69,""height"":60}",{}
+valid_WRIST_p11235_s1_image4.png,101888,{},1,0,"{""name"":""rect"",""x"":288,""y"":215,""width"":79,""height"":110}",{}
+valid_WRIST_p11235_s1_image5.png,95664,{},1,0,"{""name"":""rect"",""x"":182,""y"":245,""width"":89,""height"":80}",{}
+valid_WRIST_p11237_s1_image1.png,43277,{},1,0,"{""name"":""rect"",""x"":109,""y"":143,""width"":57,""height"":181}",{}
+valid_WRIST_p11237_s1_image2.png,47741,{},1,0,"{""name"":""rect"",""x"":112,""y"":133,""width"":76,""height"":186}",{}
+valid_WRIST_p11237_s1_image3.png,55181,{},2,0,"{""name"":""rect"",""x"":128,""y"":154,""width"":34,""height"":171}",{}
+valid_WRIST_p11237_s1_image3.png,55181,{},2,1,"{""name"":""rect"",""x"":119,""y"":232,""width"":15,""height"":43}",{}
+valid_WRIST_p11238_s1_image1.png,123291,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11238_s1_image2.png,122869,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11238_s1_image3.png,126101,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11248_s1_image1.png,130149,{},2,0,"{""name"":""rect"",""x"":197,""y"":130,""width"":23,""height"":133}",{}
+valid_WRIST_p11248_s1_image1.png,130149,{},2,1,"{""name"":""rect"",""x"":226,""y"":129,""width"":32,""height"":150}",{}
+valid_WRIST_p11248_s1_image2.png,124971,{},1,0,"{""name"":""rect"",""x"":203,""y"":180,""width"":46,""height"":148}",{}
+valid_WRIST_p11251_s1_image1.png,53679,{},1,0,"{""name"":""rect"",""x"":157,""y"":314,""width"":20,""height"":14}",{}
+valid_WRIST_p11251_s1_image2.png,44429,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11251_s1_image3.png,45162,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11252_s1_image1.png,38040,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11252_s1_image2.png,48966,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11258_s1_image1.png,140361,{},2,0,"{""name"":""rect"",""x"":203,""y"":192,""width"":21,""height"":45}",{}
+valid_WRIST_p11258_s1_image1.png,140361,{},2,1,"{""name"":""rect"",""x"":160,""y"":242,""width"":16,""height"":20}",{}
+valid_WRIST_p11258_s1_image2.png,133106,{},1,0,"{""name"":""rect"",""x"":184,""y"":193,""width"":15,""height"":48}",{}
+valid_WRIST_p11258_s1_image3.png,139580,{},1,0,"{""name"":""rect"",""x"":181,""y"":199,""width"":19,""height"":43}",{}
+valid_WRIST_p11260_s1_image1.png,33038,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11260_s1_image2.png,34275,{},2,0,"{""name"":""rect"",""x"":89,""y"":227,""width"":57,""height"":32}",{}
+valid_WRIST_p11260_s1_image2.png,34275,{},2,1,"{""name"":""rect"",""x"":35,""y"":212,""width"":32,""height"":33}",{}
+valid_WRIST_p11260_s1_image3.png,34040,{},2,0,"{""name"":""rect"",""x"":41,""y"":220,""width"":21,""height"":35}",{}
+valid_WRIST_p11260_s1_image3.png,34040,{},2,1,"{""name"":""rect"",""x"":79,""y"":221,""width"":62,""height"":44}",{}
+valid_WRIST_p11260_s1_image4.png,30104,{},2,0,"{""name"":""rect"",""x"":48,""y"":223,""width"":28,""height"":32}",{}
+valid_WRIST_p11260_s1_image4.png,30104,{},2,1,"{""name"":""rect"",""x"":72,""y"":230,""width"":76,""height"":33}",{}
+valid_WRIST_p11261_s1_image1.png,44309,{},1,0,"{""name"":""rect"",""x"":73,""y"":217,""width"":133,""height"":72}",{}
+valid_WRIST_p11261_s1_image2.png,49414,{},1,0,"{""name"":""rect"",""x"":114,""y"":252,""width"":98,""height"":74}",{}
+valid_WRIST_p11261_s1_image3.png,50306,{},1,0,"{""name"":""rect"",""x"":156,""y"":260,""width"":69,""height"":55}",{}
+valid_WRIST_p11264_s1_image1.png,46103,{},1,0,"{""name"":""rect"",""x"":167,""y"":222,""width"":74,""height"":107}",{}
+valid_WRIST_p11264_s1_image2.png,39592,{},1,0,"{""name"":""rect"",""x"":122,""y"":251,""width"":72,""height"":74}",{}
+valid_WRIST_p11264_s1_image3.png,32875,{},1,0,"{""name"":""rect"",""x"":67,""y"":157,""width"":61,""height"":152}",{}
+valid_WRIST_p11266_s1_image1.png,125330,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11266_s1_image2.png,101834,{},2,0,"{""name"":""rect"",""x"":145,""y"":216,""width"":48,""height"":38}",{}
+valid_WRIST_p11266_s1_image2.png,101834,{},2,1,"{""name"":""rect"",""x"":186,""y"":222,""width"":31,""height"":32}",{}
+valid_WRIST_p11266_s1_image3.png,113441,{},2,0,"{""name"":""rect"",""x"":171,""y"":246,""width"":31,""height"":46}",{}
+valid_WRIST_p11266_s1_image3.png,113441,{},2,1,"{""name"":""rect"",""x"":126,""y"":232,""width"":35,""height"":35}",{}
+valid_WRIST_p11268_s1_image1.png,156775,{},1,0,"{""name"":""rect"",""x"":151,""y"":251,""width"":77,""height"":59}",{}
+valid_WRIST_p11268_s1_image2.png,128968,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11268_s1_image3.png,141541,{},1,0,"{""name"":""rect"",""x"":187,""y"":270,""width"":93,""height"":49}",{}
+valid_WRIST_p11270_s1_image1.png,138841,{},1,0,"{""name"":""rect"",""x"":137,""y"":253,""width"":49,""height"":25}",{}
+valid_WRIST_p11270_s1_image2.png,133624,{},1,0,"{""name"":""rect"",""x"":163,""y"":264,""width"":35,""height"":21}",{}
+valid_WRIST_p11270_s1_image3.png,140600,{},1,0,"{""name"":""rect"",""x"":95,""y"":242,""width"":31,""height"":32}",{}
+valid_WRIST_p11275_s1_image1.png,162618,{},1,0,"{""name"":""rect"",""x"":154,""y"":205,""width"":59,""height"":45}",{}
+valid_WRIST_p11275_s1_image2.png,160487,{},1,0,"{""name"":""rect"",""x"":186,""y"":130,""width"":52,""height"":50}",{}
+valid_WRIST_p11275_s1_image3.png,156640,{},1,0,"{""name"":""rect"",""x"":165,""y"":144,""width"":58,""height"":44}",{}
+valid_WRIST_p11277_s1_image1.png,147187,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11277_s1_image2.png,143285,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
+valid_WRIST_p11277_s1_image3.png,154578,{},0,0,{},{}
+valid_WRIST_p11278_s1_image1.png,156517,"{""Abnormal Subclass Label"":""no abnormality""}",0,0,{},{}
