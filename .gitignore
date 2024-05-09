@@ -1,0 +1,16 @@
+# Hide non-blinded files
+src/get_gt.py
+src/localize.py
+src/localize_plots.py
+src/localize_plots_rev1.py
+src/localize_stats.py
+src/localize_stats_rev1.py
+src/similarity.py
+# Hide old versions of files
+src/similarity_stats.py
+README-old.md
+# Hide unused files
+src/subanalysis_labels_unused.py
+# Other
+__pycache__/
+tmp/
