@@ -87,8 +87,9 @@ DenseNet121_mask_tfms = transforms.Compose([
      transforms.Resize((img_size, img_size), interpolation=transforms.InterpolationMode.NEAREST),
      transforms.CenterCrop((img_size, img_size))])
 
-# Load radiologist jsons
-from_dir = "/export/gaon1/data/kvenka10/explain-mura/annotations"
+# Load radiologist jsons as extracted 
+# from_dir = "/export/gaon1/data/kvenka10/explain-mura/annotations"
+from_dir = cfg["subgroup_labels_dir"]
 with open(os.path.expanduser(os.path.join(from_dir, "rad1_annotations.json"))) as f:
 	rad1 = json.load(f)
 with open(os.path.expanduser(os.path.join(from_dir, "rad2_annotations.json"))) as f:
