@@ -22,11 +22,18 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+## Annotations
+- We curated our radiologist annotations using the VGG software (https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html) and saved them locally. Be sure to update the ```cfg.json``` with the save location (see ```annotations_dir``` entry).
+- Use ```get_gt_blinded.py``` to synthesize these annotations into numpy arrays. Notice that we have blinded our radiologist names to ```rad1/2/3```; please adjust the naming to fit your needs.
+
 ## Creating Datasets
 - We use the publicly available MURA data (i.e., the Stanford team made public the training and validation splits from the MURA dataset) to create an in-house train/val/test split. We also curated radiologist annotations for a small subset of the test split (the "saliency test set").
 - Download the open-source MURA dataset to your local system. Update the storage root in ```cfg.json``` under the ```data_dir``` header. Under this location, at ```[data_dir]/mura/images``` save all the images using the following format: ```[train/valid]_[anatomical region, all caps]_p[patient number]_s[study number]_image[image number].png```. Copy the uploaded text files in ```datafiles/``` to ```[data_dir]/mura/```. You can also see ```datafiles/``` for sample file naming. Update the ```saliency_test_images``` and ```cascade_test_images``` entries in the configuration JSON.
 - The ```train_100``` and ```val_100``` and ```test_100``` files list our in-house dataset splits. The ```train_all.txt``` file comprises of all the training and validation set images; this file is used for training final models (i.e., post hyperparameter search).
-- Table 1 in the manuscript can be replicated using ```figure_scripts/dataset_tables.py```. 
+- Table 1 in the manuscript can be replicated using ```figure_scripts/dataset_tables.py```.
+- Using the VGG annotator and a local spreadsheet manager (e.g. Excel), you can curate a list of the abnormality subgroup label associated with each image in the test set that is 1) positively labeled and 2) does not have an inconclusive annotation (these two criteria define the "saliency test set"). In our case, our file had 588 labels for each of the 588 saliency test set images. Save this under ```cfg["subgroup_labels_dir"]/subgroups.csv``` (and udpate the directory in ```cfg.json```.)
+- Use ```make_saliency_test_set.py``` to save the saliency test set to ```cfg["data_dir"]/mura/saliency_test_set.txt```.
+- Use ```make_cascade_test_set.py``` to save the subset used in cascading randomization to ```cfg["data_dir"]/mura/cascade_test_set.txt```.
 
 ## Model Training
 - Hyperparameter search can be done by pipelining the ```train.py``` script. See ```pipeline/hparam_lrwd.sh``` and its runners ```pipeline/hparam_runner[X]```.
@@ -35,10 +42,6 @@ pip install -r requirements.txt
 ## Model Evaluation
 - Generate model predictions using the ```test.py``` script. See ```pipeline/test_final_models.sh``` for sample runs.
 - Use ```eval.py``` and ```eval_stats_rev1.py``` and ```eval_plot.py``` for statistically evaluating these testing set predictions. An AUROC plot will be made by ```eval_plot.py``` and saved locally. A numpy zipfile with AUC and Kappa scores will be saved to the temp directory for further statistical evaluation by ```eval_stats_rev1.py```.
-
-## Annotations
-- We curated our radiologist annotations using the VGG software (https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html) and saved them locally. Be sure to update the ```cfg.json``` with the save location (see ```annotations_dir``` entry).
-- Use ```get_gt_blinded.py``` to synthesize these annotations into numpy arrays. Notice that we have blinded our radiologist names to ```rad1/2/3```; please adjust the naming to fit your needs.
 
 ## Trustworthiness Experiments
 - Code to generate saliency heatmaps is in ```heatmaps.py```. See runners in ```pipeline/heatmap_runner[X].sh```.
