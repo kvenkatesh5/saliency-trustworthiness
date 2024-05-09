@@ -4,12 +4,12 @@ This document outlines how to use/adapt our code for preparing and running the t
 
 **Venkatesh, K., Mutasa, S., Moore, F. et al. Gradient-Based Saliency Maps Are Not Trustworthy Visual Explanations of Automated AI Musculoskeletal Diagnoses. J Digit Imaging. Inform. med. (2024). https://doi.org/10.1007/s10278-024-01136-4**
 
-Please feel free to contact Kesavan for questions about this repository. Questions about overall study should be directed to corresponding author Paul Yi.
+Please feel free to contact Kesavan for questions about this repository. Questions about overall study should be directed to corresponding author Dr. Paul Yi.
 
 ### Contact Information
 *Kesavan Venkatesh* (first author): kvenka10 at alumni dot jh dot edu
 
-*Paul Yi* (corresponding author): pyi at som dot umaryland dot edu
+*Dr. Paul Yi* (corresponding author): pyi at som dot umaryland dot edu
 
 _This repository is being actively uploaded to GitHub as of May 6, 2024. Complete code will be available soon._
 
