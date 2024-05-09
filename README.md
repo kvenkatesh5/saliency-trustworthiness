@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ## Annotations
 - We curated our radiologist annotations using the VGG software (https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html) and saved them locally. Be sure to update the ```cfg.json``` with the save location (see ```annotations_dir``` entry).
 - Use ```get_gt_blinded.py``` to synthesize these annotations into numpy arrays. Notice that we have blinded our radiologist names to ```rad1/2/3```; please adjust the naming to fit your needs.
+- Extract the annotations as both csv and json (native extract function is available in the VGG annotation tool) to ```cfg["subgroup_labels_dir"]``` (under the naming convention ```rad[1/2/3]_annotations.csv```, where rad1 can be replaced; be sure to update the rad1/2/3 naming in the files as well!) and then use a spreadsheet manager to create a list of the abnormality subgroups at ```cfg["subgroup_labels_dir"]/subgroups.csv```. See the folder in github ```example_annotations``` for an example of how to format these annotations and the naming convention with which to save them.
 
 ## Creating Datasets
 - We use the publicly available MURA data (i.e., the Stanford team made public the training and validation splits from the MURA dataset) to create an in-house train/val/test split. We also curated radiologist annotations for a small subset of the test split (the "saliency test set").
@@ -53,4 +54,4 @@ __Note__: unit tests of select functions are available in ```src/unittest/```. S
 - Sensitivity involved performing cascading randomization. CNNs are randomized by ```cascade.py``` and similarity scores are computed using ```cascade_scores.py```. The reported statistics are calculated using ```cascade_stats.py```. (In the manuscript, we do not report the complete AUROCs/classification scores for all the randomized CNNs. If you want to see this, use ```cascade_eval.py``` and ```cascade_eval_plot.py```.) Example cacading randomization runs in ```pipeline/cascade_runner.sh``` and testing evaluations of cascaded models in ```pipeline/test_cascade_models.sh``` (the latter just calls the ```test.sh``` script; after this, you need to run the aforementioned cascade evaluation files).
 
 ## Credit
-We would like to specifically thank Zach Murphy (a former colleague and collaborator of Kesavan's, see https://doi.org/10.1148/ryai.220012) and Nisanth Arun (co-first author of https://doi.org/10.1148/ryai.2021200267) for their gracious help.
+We would like to specifically thank Zach Murphy (a former colleague and collaborator of Kesavan's, see https://doi.org/10.1148/ryai.220012) and Nisanth Arun (co-first author of https://doi.org/10.1148/ryai.2021200267) for their gracious input during code development.

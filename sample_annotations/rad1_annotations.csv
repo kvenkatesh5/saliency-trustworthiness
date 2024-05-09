@@ -1,0 +1,3 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+valid_ELBOW_p11264_s1_image1.png,153633,{},1,0,"{""name"":""rect"",""x"":210,""y"":172,""width"":89,""height"":33}","{""Abnormal Subclass Label"":""fracture\n""}"
+...
