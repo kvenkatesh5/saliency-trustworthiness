@@ -21,6 +21,7 @@ source tenv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+- ```cfg.json``` and according directory setup.
 
 ## Annotations
 - We curated our radiologist annotations using the VGG software (https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html) and saved them locally. Be sure to update the ```cfg.json``` with the save location (see ```annotations_dir``` entry).
