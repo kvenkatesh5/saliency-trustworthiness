@@ -16,8 +16,8 @@ _This repository is being actively uploaded to GitHub as of May 6, 2024. Complet
 ## Requirements
 - Python 3.6.9
 ```
-python3 -m venv tenv
-source tenv/bin/activate
+python3 -m venv t2env [this dir name is arbitrary]
+source t2env/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
