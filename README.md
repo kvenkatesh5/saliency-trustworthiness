@@ -42,7 +42,8 @@ pip install -r requirements.txt
 ## Trustworthiness Experiments
 - Code to generate saliency heatmaps is in ```heatmaps.py```. See runners in ```pipeline/heatmap_runner[X].sh```.
 - ```figure_scripts/saliency_map_preprocessing.py``` visualizes the two-step preprocessing routine we applied to saliency maps. See accompanying figure in supplementals S.1.
-- Localization is done by ```localize_blinded.py```. Plots and statistics are done by ```localize_plots_rev1_blinded.py``` and ```localize_stats_rev1_blinded.py```. Again, radiologist names are blinded.
+- Localization is done by ```localize_blinded.py```. Plots and statistics are done by ```localize_plots_rev1_blinded.py``` and ```localize_stats_rev1_blinded.py```. (These reproduce Figure 2 in manuscript.) Again, radiologist names are blinded.
+- Similarity (repeatability and reproducibility) is computed by ```similarity_blinded.py```. Plots and statistics are done by ```similarity_plots.py``` and ```similarity_stats_rev1.py```. (These reproduce Figure 3 in manuscript.) Again, radiologist names are blinded.
 
 ## Credit
 We would like to specifically thank Zach Murphy (a former colleague and collaborator of Kesavan's, see https://doi.org/10.1148/ryai.220012) and Nisanth Arun (co-first author of https://doi.org/10.1148/ryai.2021200267) for their gracious help.
