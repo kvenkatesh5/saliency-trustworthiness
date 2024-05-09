@@ -35,6 +35,8 @@ pip install -r requirements.txt
 - Use ```make_saliency_test_set.py``` to save the saliency test set to ```cfg["data_dir"]/mura/saliency_test_set.txt```.
 - Use ```make_cascade_test_set.py``` to save the subset used in cascading randomization to ```cfg["data_dir"]/mura/cascade_test_set.txt```.
 
+__Note__: unit tests of select functions are available in ```src/unittest/```.
+
 ## Model Training
 - Hyperparameter search can be done by pipelining the ```train.py``` script. See ```pipeline/hparam_lrwd.sh``` and its runners ```pipeline/hparam_runner[X]```.
 - After hyperparameter search and selection, use the ```train.py``` script for training final models (i.e., models trained on the training and validation splits). See ```pipeline/train_densenet.sh``` and ```pipeline/train_inception.sh``` and their associated runners (```pipeline/densenet_runner.sh``` and ```pipeline/inception_runner[X]```) for sample runs.
